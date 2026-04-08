@@ -1,0 +1,184 @@
+2026-04-07 14:56:38 [INFO    ] __main__ → ============================================================
+2026-04-07 14:56:38 [INFO    ] __main__ → 🤖  FORM AUTOMATION STARTING
+2026-04-07 14:56:38 [INFO    ] __main__ → ============================================================
+2026-04-07 14:56:38 [INFO    ] __main__ → 📄 Loading records from sheet …
+2026-04-07 14:56:38 [INFO    ] data.sheet_reader → ✅ Google Sheets authenticated successfully
+2026-04-07 14:56:38 [INFO    ] data.sheet_reader → 📄 Opening Google Sheet ID: 1tPVwjc-UkupQibXsGur2StClfrIlWcyRlyMnLECepNg
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Loaded 20 rows from sheet 'test sheet'
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 2 domain: https://peoriaaz.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 2 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 3 domain: https://peoriaaz.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 3 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 4 domain: https://sangamoncountyilsheriff.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 4 loaded: https://sangamoncountyilsheriff.govqa.us | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 5 domain: https://glendaleheights.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 5 loaded: https://glendaleheights.govqa.us/WEBAPP/ | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 6 domain: https://oaklawnil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 6 loaded: https://oaklawnil.govqa.us/WEBAPP/_rs/(S | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 7 domain: https://peoriaaz.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 7 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 8 domain: https://calumetcityil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 8 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 9 domain: https://gurneeil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 9 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 10 domain: https://oakforestil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 10 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 11 domain: https://warrenvilleil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 11 loaded: https://warrenvilleil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 12 domain: https://rollingmeadowsil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 12 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 13 domain: https://calumetcityil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 13 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 14 domain: https://bolingbrookil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 14 loaded: https://bolingbrookil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 15 domain: https://harveyil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 15 loaded: https://harveyil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 16 domain: https://gurneeil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 16 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 17 domain: https://elkgrovevillageil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 17 loaded: https://elkgrovevillageil.govqa.us/WEBAP | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 18 domain: https://peoriaaz.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 18 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 19 domain: https://oakforestil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 19 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 20 domain: https://rollingmeadowsil.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 20 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 🌐 Row 21 domain: https://rosemont.govqa.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → ✅ Row 21 loaded: https://rosemont.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 14:56:40 [INFO    ] data.sheet_reader → 📋 20 valid records ready for processing
+2026-04-07 14:56:40 [INFO    ] __main__ → 📋 20 records queued for processing
+2026-04-07 14:56:40 [INFO    ] reports.result_writer → ✅ ResultWriter authenticated with Google Sheets
+2026-04-07 14:56:42 [INFO    ] reports.result_writer → ✅ Worksheet 'test sheet' opened for result writing
+2026-04-07 14:56:42 [INFO    ] browser.driver_setup → 🖥️  Running in VISIBLE mode
+2026-04-07 14:56:43 [INFO    ] browser.driver_setup → ✅ WebDriver initialized successfully
+2026-04-07 14:56:43 [INFO    ] __main__ → 
+🔄 Record 1/20 — Row 2
+2026-04-07 14:56:43 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 14:56:43 [INFO    ] __main__ → ▶️  Processing Row 2 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x | agent-sr@smartprocure.us
+2026-04-07 14:56:43 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 14:56:43 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 2
+2026-04-07 14:56:43 [INFO    ] steps.tile_selector → 🌐 [Row 2] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx
+2026-04-07 14:56:47 [INFO    ] steps.tile_selector → ✅ [Row 2] Page opened successfully
+2026-04-07 14:56:47 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 14:57:26 [INFO    ] steps.tile_selector → 🔍 [Row 2] Looking for City/public tile …
+2026-04-07 14:57:26 [DEBUG   ] browser.element_helper → ✅ Element clickable: //span[@class="tile-title"]/h3[contains(text(),"General Records") or contains(te
+2026-04-07 14:57:29 [INFO    ] browser.element_helper → 🖱️  Clicked: //span[@class="tile-title"]/h3[contains(text(),"General Records") or contains(te
+2026-04-07 14:57:37 [INFO    ] steps.tile_selector → ✅ [Row 2] Tile clicked successfully
+2026-04-07 14:57:39 [INFO    ] __main__ → [2/3] 🔐 Login — Row 2
+2026-04-07 14:57:39 [INFO    ] steps.login_handler → 🔄 [Row 2] Starting login sequence...
+2026-04-07 14:57:39 [INFO    ] steps.login_handler → 📧 [Row 2] Filling email field …
+2026-04-07 14:57:39 [DEBUG   ] browser.element_helper → ✅ Element found: //input[@aria-label="Email Address"]
+2026-04-07 14:57:40 [INFO    ] browser.element_helper → ⌨️  Typed into //input[@aria-label="Email Address"] → 'agent-sr@smartprocure.us'
+2026-04-07 14:57:40 [INFO    ] steps.login_handler → ✅ [Row 2] Email filled using: //input[@aria-label="Email Address"]
+2026-04-07 14:57:40 [INFO    ] steps.login_handler → 🔑 [Row 2] Filling password field …
+2026-04-07 14:57:40 [DEBUG   ] browser.element_helper → ✅ Element found: //input[@aria-label="Password"]
+2026-04-07 14:57:40 [INFO    ] browser.element_helper → ⌨️  Typed into //input[@aria-label="Password"] → 'smartprocure@agent-sr.us'
+2026-04-07 14:57:40 [INFO    ] steps.login_handler → ✅ [Row 2] Password filled using: //input[@aria-label="Password"]
+2026-04-07 14:57:40 [INFO    ] steps.login_handler → 🚀 [Row 2] Submitting login form …
+2026-04-07 14:57:40 [DEBUG   ] browser.element_helper → ✅ Element clickable: //div[@id="RequesLoginFormLayout_btnLogin_CD"]
+2026-04-07 14:57:49 [INFO    ] browser.element_helper → 🖱️  Clicked: //div[@id="RequesLoginFormLayout_btnLogin_CD"]
+2026-04-07 14:57:49 [INFO    ] steps.login_handler → ✅ [Row 2] Submit clicked using: //div[@id="RequesLoginFormLayout_btnLogin_CD"]
+2026-04-07 14:57:52 [INFO    ] steps.login_handler → 🔎 [Row 2] Verifying login …
+2026-04-07 14:57:52 [INFO    ] steps.login_handler → ✅ [Row 2] Login verified — success indicator found
+2026-04-07 14:57:53 [INFO    ] __main__ → [3/3] 📝 Form Fill — Row 2
+2026-04-07 14:57:53 [INFO    ] steps.form_filler → 📝 [Row 2] Starting smart form fill …
+2026-04-07 14:57:53 [INFO    ] steps.form_filler → 📋 [Row 2] Row dict built with 13 fields
+2026-04-07 14:57:53 [INFO    ] steps.form_filler → 🔍 [Row 2] Detecting form fields …
+2026-04-07 14:57:53 [INFO    ] engine.field_detector → 🔍 Scanning page for form fields …
+2026-04-07 14:57:53 [DEBUG   ] engine.field_detector →   📝 text: 'Date Range of Request (From)' required=True
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Date Range of Request (To)' required=True
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Preferred Method to Receive Records:' required=True
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Electronic via Records Center' required=False
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Electronic via Records Center' required=False
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Electronic via Records Center' required=False
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Electronic via Records Center' required=False
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Electronic via Records Center' required=False
+2026-04-07 14:57:54 [DEBUG   ] engine.field_detector →   📝 text: 'Electronic via Records Center' required=False
+2026-04-07 14:57:59 [DEBUG   ] engine.field_detector →   📝 text: 'captchaFormLayout$reqstOpenCaptchaTextBox' required=False
+2026-04-07 14:57:59 [DEBUG   ] engine.field_detector →   📄 textarea: 'requestData$CustomFieldsFormLayout$cf 109' required=False
+2026-04-07 14:58:00 [DEBUG   ] engine.field_detector →   📄 textarea: 'Describe the Record(s) Requested:' required=True
+2026-04-07 14:58:20 [INFO    ] engine.field_detector → ✅ Detected 7 fields total
+2026-04-07 14:58:20 [INFO    ] steps.form_filler → ✅ [Row 2] Detected 7 fields
+2026-04-07 14:58:20 [INFO    ] engine.form_filler → 🧠 Fields to fill: 7
+2026-04-07 14:58:20 [INFO    ] engine.form_filler → 🔑 Row keys: ['Name', 'Email', 'Phone', 'Street Address', 'City', 'State', 'Zip', 'Company', 'Description', 'Content Type', 'records_requested_for', 'Department', 'Domain']
+2026-04-07 14:58:20 [INFO    ] engine.decision_engine → 📅 Date field → 04/07/2026
+2026-04-07 14:58:20 [INFO    ] engine.form_filler → ✅ Date set → 04/07/2026
+2026-04-07 14:58:20 [INFO    ] engine.decision_engine → 📅 Date field → 04/07/2026
+2026-04-07 14:58:20 [INFO    ] engine.form_filler → ✅ Date set → 04/07/2026
+2026-04-07 14:58:20 [INFO    ] engine.decision_engine → 📬 Delivery → 'Electronic'
+2026-04-07 14:58:21 [INFO    ] engine.form_filler → ✅ Text set: 'Electronic'
+2026-04-07 14:58:21 [DEBUG   ] engine.semantic_matcher → ❌ No match found for: 'electronic via records center'
+2026-04-07 14:58:21 [DEBUG   ] engine.decision_engine → ⏭️  Skipping: 'captchaformlayout reqstopencaptchatextbox'
+2026-04-07 14:58:21 [DEBUG   ] engine.form_filler → ⏭️  Skipped: 'captchaFormLayout$reqstOpenCaptchaTextBox'
+2026-04-07 14:58:26 [WARNING ] engine.form_filler → ⚠️  Failed to fill 'requestData$CustomFieldsFormLayout$cf 109' → Message: element not interactable
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5e8ba42f5b6a <unknown>
+#1 0x5e8ba3d08720 <unknown>
+#2 0x5e8ba3d5407c <unknown>
+#3 0x5e8ba3d51617 <unknown>
+#4 0x5e8ba3da6369 <unknown>
+#5 0x5e8ba3d4fc0f <unknown>
+#6 0x5e8ba3d509d1 <unknown>
+#7 0x5e8ba42ba6b9 <unknown>
+#8 0x5e8ba42bd5c1 <unknown>
+#9 0x5e8ba42a6e29 <unknown>
+#10 0x5e8ba42be17e <unknown>
+#11 0x5e8ba428d4b0 <unknown>
+#12 0x5e8ba42e2578 <unknown>
+#13 0x5e8ba42e274b <unknown>
+#14 0x5e8ba42f41a3 <unknown>
+#15 0x76b6f229caa4 <unknown>
+#16 0x76b6f2329c6c <unknown>
+
+2026-04-07 14:58:27 [INFO    ] engine.form_filler → ✅ Description filled
+2026-04-07 14:58:27 [INFO    ] steps.form_filler → ✅ [Row 2] All fields filled
+2026-04-07 14:58:28 [INFO    ] steps.form_filler → 🔐 [Row 2] Checking for captcha …
+2026-04-07 14:58:36 [INFO    ] utils.captcha_manager → 🔐 [Row 2] CaptchaManager starting …
+2026-04-07 14:58:36 [INFO    ] utils.captcha_manager → 🖼️  Trying image captcha solver …
+2026-04-07 14:58:36 [INFO    ] utils.captcha_image_solver → 🎯 Captcha img found: //td[@id="captchaFormLayout_0"]//img[@class="BDC_CaptchaImag
+2026-04-07 14:58:36 [INFO    ] utils.captcha_manager → 🎯 Image captcha detected
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver → 📛 Image name: 'peoriaaz_row2'
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver → ✅ Direct screenshot: temp_captcha/peoriaaz_row2_captcha.png (250x50)
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver → 🐛 Debug saved → temp_captcha/debug_peoriaaz_row2_method1.png
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver → 📐 Input image size: 250x50px
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver → ✅ Outline font pipeline complete → temp_captcha/p0_outline_font.png
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [outline_font] raw='' clean='' len=0
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [grayscale_threshold] raw='' clean='' len=0
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [invert_threshold] raw='' clean='' len=0
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [upscale_threshold] raw='' clean='' len=0
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [adaptive_threshold] raw='' clean='' len=0
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [raw_grayscale] raw='' clean='' len=0
+2026-04-07 14:58:37 [WARNING ] utils.captcha_image_solver → ⚠️  All pipelines failed — trying raw OCR on original
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_image_solver → ❌ Tesseract not found! sudo apt install tesseract-ocr -y
+2026-04-07 14:58:37 [INFO    ] utils.captcha_image_solver →   🔬 [raw_original] raw='' clean=''
+2026-04-07 14:58:37 [ERROR   ] utils.captcha_manager → ❌ OCR result invalid: 'None'
+2026-04-07 14:58:37 [WARNING ] utils.captcha_manager → ⚠️  Image solver failed — trying audio solver …
+2026-04-07 14:58:37 [INFO    ] utils.captcha_manager → 🎵 Trying audio captcha solver …
+2026-04-07 14:58:37 [INFO    ] utils.captcha_manager → 🔊 Audio button found: //a[@class="BDC_SoundLink"]
+2026-04-07 14:58:37 [INFO    ] utils.captcha_solver → 🔍 Checking for BDC captcha …
+2026-04-07 14:58:38 [INFO    ] utils.captcha_solver → 🎯 Captcha found and scrolled to: //div[@id="captchaFormLayout"]
+2026-04-07 14:58:38 [INFO    ] utils.captcha_solver → 🎯 BDC Captcha detected — solving via audio …
+2026-04-07 14:58:38 [INFO    ] utils.captcha_solver → 🔊 Audio button found: //a[@class="BDC_SoundLink"]
+2026-04-07 14:58:38 [INFO    ] utils.captcha_solver → 🔗 Audio href: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(ujcvhbsepewsgxwk0nl03wbn))/BotDetectCapt
+2026-04-07 14:58:38 [INFO    ] utils.captcha_solver → 🎵 Audio URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(ujcvhbsepewsgxwk0nl03wbn))/BotDetectCaptcha.ashx?get=sound&c=c_requestopen_captchaformlayout_reqstopencaptcha&t=10fa53a5076f442399eb8928cea630ee&s=VhtXF2ZQsRkyFWXORYUTxsNqhctghtlibRTNAYLadQnpQ5uXW88xqu3zb9%2bDrGwzO%2br4Zdtm3UHV6uV9K9bRww%3d%3d
+2026-04-07 14:58:38 [INFO    ] utils.captcha_solver → ⬇️  Downloading audio …
+2026-04-07 14:58:44 [INFO    ] utils.captcha_solver → ✅ Audio saved: temp_audio/captcha.wav (65884 bytes)
+2026-04-07 14:58:57 [INFO    ] utils.captcha_solver → 🧹 Removing background noise...
+2026-04-07 14:58:57 [INFO    ] utils.captcha_solver → ✅ Audio cleaned & enhanced — duration: 7.1s
+2026-04-07 14:58:58 [INFO    ] utils.captcha_solver → 🎙️  Trying Whisper transcription …
+2026-04-07 14:59:06 [INFO    ] utils.captcha_solver → ✅ Whisper transcribed (temp=0): 'N A 4 8.'
+2026-04-07 14:59:06 [INFO    ] utils.captcha_solver → 🧹 Raw transcribed text: 'N A 4 8.'
+2026-04-07 14:59:06 [INFO    ] utils.captcha_solver → ✅ Final captcha text (uppercase): 'NA48'
+2026-04-07 14:59:06 [INFO    ] utils.captcha_solver → ✅ Final captcha text: 'NA48'
+2026-04-07 14:59:06 [DEBUG   ] utils.captcha_solver → 🗑️  Deleted: temp_audio/captcha.wav
+2026-04-07 14:59:06 [DEBUG   ] utils.captcha_solver → 🗑️  Deleted: temp_audio/captcha_boosted.wav
+2026-04-07 14:59:06 [INFO    ] utils.captcha_solver → 📝 Captcha text: 'NA48'
+2026-04-07 14:59:06 [INFO    ] utils.captcha_solver → ✅ Captcha answer entered: 'NA48'
+2026-04-07 14:59:06 [INFO    ] utils.captcha_manager → ✅ Audio solver succeeded

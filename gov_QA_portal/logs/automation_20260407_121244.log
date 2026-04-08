@@ -1,0 +1,1440 @@
+2026-04-07 12:12:45 [INFO    ] __main__ → ============================================================
+2026-04-07 12:12:45 [INFO    ] __main__ → 🤖  FORM AUTOMATION STARTING
+2026-04-07 12:12:45 [INFO    ] __main__ → ============================================================
+2026-04-07 12:12:45 [INFO    ] __main__ → 📄 Loading records from sheet …
+2026-04-07 12:12:45 [INFO    ] data.sheet_reader → ✅ Google Sheets authenticated successfully
+2026-04-07 12:12:45 [INFO    ] data.sheet_reader → 📄 Opening Google Sheet ID: 1tPVwjc-UkupQibXsGur2StClfrIlWcyRlyMnLECepNg
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Loaded 20 rows from sheet 'test sheet'
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 2 domain: https://peoriaaz.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 2 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 3 domain: https://peoriaaz.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 3 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 4 domain: https://sangamoncountyilsheriff.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 4 loaded: https://sangamoncountyilsheriff.govqa.us | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 5 domain: https://glendaleheights.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 5 loaded: https://glendaleheights.govqa.us/WEBAPP/ | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 6 domain: https://oaklawnil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 6 loaded: https://oaklawnil.govqa.us/WEBAPP/_rs/(S | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 7 domain: https://peoriaaz.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 7 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 8 domain: https://calumetcityil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 8 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 9 domain: https://gurneeil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 9 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 10 domain: https://oakforestil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 10 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 11 domain: https://warrenvilleil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 11 loaded: https://warrenvilleil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 12 domain: https://rollingmeadowsil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 12 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 13 domain: https://calumetcityil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 13 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 14 domain: https://bolingbrookil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 14 loaded: https://bolingbrookil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 15 domain: https://harveyil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 15 loaded: https://harveyil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 16 domain: https://gurneeil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 16 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 17 domain: https://elkgrovevillageil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 17 loaded: https://elkgrovevillageil.govqa.us/WEBAP | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 18 domain: https://peoriaaz.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 18 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 19 domain: https://oakforestil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 19 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 20 domain: https://rollingmeadowsil.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 20 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 🌐 Row 21 domain: https://rosemont.govqa.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → ✅ Row 21 loaded: https://rosemont.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 12:12:47 [INFO    ] data.sheet_reader → 📋 20 valid records ready for processing
+2026-04-07 12:12:47 [INFO    ] __main__ → 📋 20 records queued for processing
+2026-04-07 12:12:47 [INFO    ] reports.result_writer → ✅ ResultWriter authenticated with Google Sheets
+2026-04-07 12:12:49 [INFO    ] reports.result_writer → ✅ Worksheet 'test sheet' opened for result writing
+2026-04-07 12:12:49 [INFO    ] browser.driver_setup → 🖥️  Running in VISIBLE mode
+2026-04-07 12:12:51 [INFO    ] browser.driver_setup → ✅ WebDriver initialized successfully
+2026-04-07 12:12:51 [INFO    ] __main__ → 
+🔄 Record 1/20 — Row 2
+2026-04-07 12:12:51 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:12:51 [INFO    ] __main__ → ▶️  Processing Row 2 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x | agent-sr@smartprocure.us
+2026-04-07 12:12:51 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:12:51 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 2
+2026-04-07 12:12:51 [INFO    ] steps.tile_selector → 🌐 [Row 2] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx
+2026-04-07 12:12:57 [INFO    ] steps.tile_selector → ✅ [Row 2] Page opened successfully
+2026-04-07 12:12:57 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:12:59 [INFO    ] steps.tile_selector → 🔍 [Row 2] Looking for City/public tile …
+2026-04-07 12:12:59 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:12:59 [WARNING ] steps.tile_selector → ⚠️  [Row 2] Standard click failed, trying JS click …
+2026-04-07 12:12:59 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:12:59 [WARNING ] steps.tile_selector → ⚠️  [Row 2] JS click failed, scanning all tiles …
+2026-04-07 12:12:59 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:12:59 [INFO    ] steps.tile_selector → 🔍 [Row 2] Found 8 total tiles to scan
+2026-04-07 12:12:59 [INFO    ] steps.tile_selector → 🎯 [Row 2] Matched tile text: 'My Public Records Center'
+2026-04-07 12:13:01 [INFO    ] steps.tile_selector → ✅ [Row 2] Fallback tile click succeeded
+2026-04-07 12:13:03 [INFO    ] __main__ → [2/3] 🔐 Login — Row 2
+2026-04-07 12:13:03 [INFO    ] steps.login_handler → 🔄 [Row 2] Starting login sequence...
+2026-04-07 12:13:03 [INFO    ] steps.login_handler → 📧 [Row 2] Filling email field …
+2026-04-07 12:13:44 [ERROR   ] steps.login_handler → ❌ [Row 2] Could not find email/username input field
+2026-04-07 12:13:44 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row2_email_field_not_found_20260407_121344.png
+2026-04-07 12:13:44 [ERROR   ] __main__ → ❌ [Row 2] Step 2 (Login) failed — skipping row
+2026-04-07 12:13:47 [INFO    ] reports.result_writer → 📊 [Row 2] Result written to sheet: FAILED
+2026-04-07 12:13:47 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:13:49 [INFO    ] __main__ → 
+🔄 Record 2/20 — Row 3
+2026-04-07 12:13:49 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:13:49 [INFO    ] __main__ → ▶️  Processing Row 3 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryr | agent-sr@smartprocure.us
+2026-04-07 12:13:49 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:13:49 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 3
+2026-04-07 12:13:49 [INFO    ] steps.tile_selector → 🌐 [Row 3] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryrtlm0ewx0o51mkt))/supporthome.aspx
+2026-04-07 12:14:00 [INFO    ] steps.tile_selector → ✅ [Row 3] Page opened successfully
+2026-04-07 12:14:00 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:14:02 [INFO    ] steps.tile_selector → 🔍 [Row 3] Looking for City/public tile …
+2026-04-07 12:14:02 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:14:02 [WARNING ] steps.tile_selector → ⚠️  [Row 3] Standard click failed, trying JS click …
+2026-04-07 12:14:02 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:14:02 [WARNING ] steps.tile_selector → ⚠️  [Row 3] JS click failed, scanning all tiles …
+2026-04-07 12:14:02 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:14:02 [INFO    ] steps.tile_selector → 🔍 [Row 3] Found 8 total tiles to scan
+2026-04-07 12:14:02 [INFO    ] steps.tile_selector → 🎯 [Row 3] Matched tile text: 'My Public Records Center'
+2026-04-07 12:14:06 [INFO    ] steps.tile_selector → ✅ [Row 3] Fallback tile click succeeded
+2026-04-07 12:14:09 [INFO    ] __main__ → [2/3] 🔐 Login — Row 3
+2026-04-07 12:14:09 [INFO    ] steps.login_handler → 🔄 [Row 3] Starting login sequence...
+2026-04-07 12:14:09 [INFO    ] steps.login_handler → 📧 [Row 3] Filling email field …
+2026-04-07 12:14:49 [ERROR   ] steps.login_handler → ❌ [Row 3] Could not find email/username input field
+2026-04-07 12:14:49 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row3_email_field_not_found_20260407_121449.png
+2026-04-07 12:14:49 [ERROR   ] __main__ → ❌ [Row 3] Step 2 (Login) failed — skipping row
+2026-04-07 12:14:52 [INFO    ] reports.result_writer → 📊 [Row 3] Result written to sheet: FAILED
+2026-04-07 12:14:52 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:14:54 [INFO    ] __main__ → 
+🔄 Record 3/20 — Row 4
+2026-04-07 12:14:54 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:14:54 [INFO    ] __main__ → ▶️  Processing Row 4 | https://sangamoncountyilsheriff.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 12:14:54 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:14:54 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 4
+2026-04-07 12:14:54 [INFO    ] steps.tile_selector → 🌐 [Row 4] Opening URL: https://sangamoncountyilsheriff.govqa.us/WEBAPP/_rs/(S(25cqysq5siot03ezjosh55se))/SupportHome.aspx?sSessionID=1544725208:45720JZJSQAKDOVEWAPFUGQYMYPHJ
+2026-04-07 12:15:01 [INFO    ] steps.tile_selector → ✅ [Row 4] Page opened successfully
+2026-04-07 12:15:01 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:15:03 [INFO    ] steps.tile_selector → 🔍 [Row 4] Looking for City/public tile …
+2026-04-07 12:15:03 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:15:03 [WARNING ] steps.tile_selector → ⚠️  [Row 4] Standard click failed, trying JS click …
+2026-04-07 12:15:03 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:15:03 [WARNING ] steps.tile_selector → ⚠️  [Row 4] JS click failed, scanning all tiles …
+2026-04-07 12:15:03 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:15:03 [INFO    ] steps.tile_selector → 🔍 [Row 4] Found 4 total tiles to scan
+2026-04-07 12:15:03 [INFO    ] steps.tile_selector → 🎯 [Row 4] Matched tile text: 'Public Records Archive'
+2026-04-07 12:15:08 [INFO    ] steps.tile_selector → ✅ [Row 4] Fallback tile click succeeded
+2026-04-07 12:15:11 [INFO    ] __main__ → [2/3] 🔐 Login — Row 4
+2026-04-07 12:15:11 [INFO    ] steps.login_handler → 🔄 [Row 4] Starting login sequence...
+2026-04-07 12:15:11 [INFO    ] steps.login_handler → 📧 [Row 4] Filling email field …
+2026-04-07 12:15:51 [ERROR   ] steps.login_handler → ❌ [Row 4] Could not find email/username input field
+2026-04-07 12:15:51 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row4_email_field_not_found_20260407_121551.png
+2026-04-07 12:15:51 [ERROR   ] __main__ → ❌ [Row 4] Step 2 (Login) failed — skipping row
+2026-04-07 12:15:54 [INFO    ] reports.result_writer → 📊 [Row 4] Result written to sheet: FAILED
+2026-04-07 12:15:54 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:15:56 [INFO    ] __main__ → 
+🔄 Record 4/20 — Row 5
+2026-04-07 12:15:56 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:15:56 [INFO    ] __main__ → ▶️  Processing Row 5 | https://glendaleheights.govqa.us/WEBAPP/_rs/(S(wfr | agent-sr@smartprocure.us
+2026-04-07 12:15:56 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:15:56 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 5
+2026-04-07 12:15:56 [INFO    ] steps.tile_selector → 🌐 [Row 5] Opening URL: https://glendaleheights.govqa.us/WEBAPP/_rs/(S(wfrzhrl1p10xcejumiucvgo1))/SupportHome.aspx?sSessionID=110227226190:54861YQIBOOYRJBRDEQQONJXEZV
+2026-04-07 12:16:03 [INFO    ] steps.tile_selector → ✅ [Row 5] Page opened successfully
+2026-04-07 12:16:03 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:16:05 [INFO    ] steps.tile_selector → 🔍 [Row 5] Looking for City/public tile …
+2026-04-07 12:16:05 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:16:05 [WARNING ] steps.tile_selector → ⚠️  [Row 5] Standard click failed, trying JS click …
+2026-04-07 12:16:05 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:16:05 [WARNING ] steps.tile_selector → ⚠️  [Row 5] JS click failed, scanning all tiles …
+2026-04-07 12:16:05 [DEBUG   ] browser.element_helper → 🔍 Found 2 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:16:05 [INFO    ] steps.tile_selector → 🔍 [Row 5] Found 2 total tiles to scan
+2026-04-07 12:16:05 [INFO    ] steps.tile_selector → 🎯 [Row 5] Matched tile text: 'Submit a Public Records Request'
+2026-04-07 12:16:07 [INFO    ] steps.tile_selector → ✅ [Row 5] Fallback tile click succeeded
+2026-04-07 12:16:10 [INFO    ] __main__ → [2/3] 🔐 Login — Row 5
+2026-04-07 12:16:10 [INFO    ] steps.login_handler → 🔄 [Row 5] Starting login sequence...
+2026-04-07 12:16:10 [INFO    ] steps.login_handler → 📧 [Row 5] Filling email field …
+2026-04-07 12:16:50 [ERROR   ] steps.login_handler → ❌ [Row 5] Could not find email/username input field
+2026-04-07 12:16:50 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row5_email_field_not_found_20260407_121650.png
+2026-04-07 12:16:50 [ERROR   ] __main__ → ❌ [Row 5] Step 2 (Login) failed — skipping row
+2026-04-07 12:16:53 [INFO    ] reports.result_writer → 📊 [Row 5] Result written to sheet: FAILED
+2026-04-07 12:16:53 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:16:55 [INFO    ] __main__ → 
+🔄 Record 5/20 — Row 6
+2026-04-07 12:16:55 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:16:55 [INFO    ] __main__ → ▶️  Processing Row 6 | https://oaklawnil.govqa.us/WEBAPP/_rs/(S(tlhpxbgp5 | agent-sr@smartprocure.us
+2026-04-07 12:16:55 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:16:55 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 6
+2026-04-07 12:16:55 [INFO    ] steps.tile_selector → 🌐 [Row 6] Opening URL: https://oaklawnil.govqa.us/WEBAPP/_rs/(S(tlhpxbgp50u5k432fqtquu2i))/SupportHome.aspx?sSessionID=1544725155:7127HTQOWBFVOVYUGNNCYXEXFSEFX
+2026-04-07 12:17:11 [INFO    ] steps.tile_selector → ✅ [Row 6] Page opened successfully
+2026-04-07 12:17:11 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:17:13 [INFO    ] steps.tile_selector → 🔍 [Row 6] Looking for City/public tile …
+2026-04-07 12:17:13 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:17:13 [WARNING ] steps.tile_selector → ⚠️  [Row 6] Standard click failed, trying JS click …
+2026-04-07 12:17:13 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:17:13 [WARNING ] steps.tile_selector → ⚠️  [Row 6] JS click failed, scanning all tiles …
+2026-04-07 12:17:18 [DEBUG   ] browser.element_helper → 🔍 Found 0 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:17:18 [INFO    ] steps.tile_selector → 🔍 [Row 6] Found 0 total tiles to scan
+2026-04-07 12:17:18 [WARNING ] steps.tile_selector → ⚠️  [Row 6] No tile with 'City' or 'public' text found in 0 tiles
+2026-04-07 12:17:18 [ERROR   ] steps.tile_selector → ❌ [Row 6] Could not find or click City/public tile after all strategies
+2026-04-07 12:17:18 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row6_tile_not_found_20260407_121718.png
+2026-04-07 12:17:18 [ERROR   ] __main__ → ❌ [Row 6] Step 1 (Tile Selection) failed — skipping row
+2026-04-07 12:17:21 [INFO    ] reports.result_writer → 📊 [Row 6] Result written to sheet: FAILED
+2026-04-07 12:17:21 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:17:23 [INFO    ] __main__ → 
+🔄 Record 6/20 — Row 7
+2026-04-07 12:17:23 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:17:23 [INFO    ] __main__ → ▶️  Processing Row 7 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(3ubnkh1tff | agent-sr@smartprocure.us
+2026-04-07 12:17:23 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:17:23 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 7
+2026-04-07 12:17:23 [INFO    ] steps.tile_selector → 🌐 [Row 7] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(3ubnkh1tfflazlfacim4rwyl))/supporthome.aspx
+2026-04-07 12:17:26 [INFO    ] steps.tile_selector → ✅ [Row 7] Page opened successfully
+2026-04-07 12:17:26 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:17:28 [INFO    ] steps.tile_selector → 🔍 [Row 7] Looking for City/public tile …
+2026-04-07 12:17:28 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:17:28 [WARNING ] steps.tile_selector → ⚠️  [Row 7] Standard click failed, trying JS click …
+2026-04-07 12:17:28 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:17:28 [WARNING ] steps.tile_selector → ⚠️  [Row 7] JS click failed, scanning all tiles …
+2026-04-07 12:17:28 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:17:28 [INFO    ] steps.tile_selector → 🔍 [Row 7] Found 8 total tiles to scan
+2026-04-07 12:17:28 [INFO    ] steps.tile_selector → 🎯 [Row 7] Matched tile text: 'My Public Records Center'
+2026-04-07 12:17:29 [INFO    ] steps.tile_selector → ✅ [Row 7] Fallback tile click succeeded
+2026-04-07 12:17:32 [INFO    ] __main__ → [2/3] 🔐 Login — Row 7
+2026-04-07 12:17:32 [INFO    ] steps.login_handler → 🔄 [Row 7] Starting login sequence...
+2026-04-07 12:17:32 [INFO    ] steps.login_handler → 📧 [Row 7] Filling email field …
+2026-04-07 12:18:12 [ERROR   ] steps.login_handler → ❌ [Row 7] Could not find email/username input field
+2026-04-07 12:18:12 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row7_email_field_not_found_20260407_121812.png
+2026-04-07 12:18:12 [ERROR   ] __main__ → ❌ [Row 7] Step 2 (Login) failed — skipping row
+2026-04-07 12:18:14 [INFO    ] reports.result_writer → 📊 [Row 7] Result written to sheet: FAILED
+2026-04-07 12:18:14 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:18:16 [INFO    ] __main__ → 
+🔄 Record 7/20 — Row 8
+2026-04-07 12:18:16 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:18:16 [INFO    ] __main__ → ▶️  Processing Row 8 | https://calumetcityil.govqa.us/WEBAPP/_rs/(S(vhtnu | agent-sr@smartprocure.us
+2026-04-07 12:18:16 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:18:16 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 8
+2026-04-07 12:18:16 [INFO    ] steps.tile_selector → 🌐 [Row 8] Opening URL: https://calumetcityil.govqa.us/WEBAPP/_rs/(S(vhtnuo1hpfaflb2m2ojy1ui4))/supporthome.aspx
+2026-04-07 12:18:32 [INFO    ] steps.tile_selector → ✅ [Row 8] Page opened successfully
+2026-04-07 12:18:32 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:18:34 [INFO    ] steps.tile_selector → 🔍 [Row 8] Looking for City/public tile …
+2026-04-07 12:18:34 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:18:34 [WARNING ] steps.tile_selector → ⚠️  [Row 8] Standard click failed, trying JS click …
+2026-04-07 12:18:34 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:18:34 [WARNING ] steps.tile_selector → ⚠️  [Row 8] JS click failed, scanning all tiles …
+2026-04-07 12:18:34 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:18:34 [INFO    ] steps.tile_selector → 🔍 [Row 8] Found 4 total tiles to scan
+2026-04-07 12:18:34 [INFO    ] steps.tile_selector → 🎯 [Row 8] Matched tile text: 'Public Records Archive'
+2026-04-07 12:18:42 [INFO    ] steps.tile_selector → ✅ [Row 8] Fallback tile click succeeded
+2026-04-07 12:18:45 [INFO    ] __main__ → [2/3] 🔐 Login — Row 8
+2026-04-07 12:18:45 [INFO    ] steps.login_handler → 🔄 [Row 8] Starting login sequence...
+2026-04-07 12:18:45 [INFO    ] steps.login_handler → 📧 [Row 8] Filling email field …
+2026-04-07 12:19:25 [ERROR   ] steps.login_handler → ❌ [Row 8] Could not find email/username input field
+2026-04-07 12:19:25 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row8_email_field_not_found_20260407_121925.png
+2026-04-07 12:19:25 [ERROR   ] __main__ → ❌ [Row 8] Step 2 (Login) failed — skipping row
+2026-04-07 12:19:28 [INFO    ] reports.result_writer → 📊 [Row 8] Result written to sheet: FAILED
+2026-04-07 12:19:28 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:19:30 [INFO    ] __main__ → 
+🔄 Record 8/20 — Row 9
+2026-04-07 12:19:30 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:19:30 [INFO    ] __main__ → ▶️  Processing Row 9 | https://gurneeil.govqa.us/WEBAPP/_rs/(S(uxxvrsbe2l | agent-sr@smartprocure.us
+2026-04-07 12:19:30 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:19:30 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 9
+2026-04-07 12:19:30 [INFO    ] steps.tile_selector → 🌐 [Row 9] Opening URL: https://gurneeil.govqa.us/WEBAPP/_rs/(S(uxxvrsbe2lh2edfe4b5hcr0w))/SupportHome.aspx?sSessionID=21711317125:49020TIVZDBULVJUWYIAYBLBBTSV
+2026-04-07 12:19:45 [INFO    ] steps.tile_selector → ✅ [Row 9] Page opened successfully
+2026-04-07 12:19:45 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:19:47 [INFO    ] steps.tile_selector → 🔍 [Row 9] Looking for City/public tile …
+2026-04-07 12:19:47 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:19:47 [WARNING ] steps.tile_selector → ⚠️  [Row 9] Standard click failed, trying JS click …
+2026-04-07 12:19:47 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:19:47 [WARNING ] steps.tile_selector → ⚠️  [Row 9] JS click failed, scanning all tiles …
+2026-04-07 12:19:48 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:19:48 [INFO    ] steps.tile_selector → 🔍 [Row 9] Found 4 total tiles to scan
+2026-04-07 12:19:48 [INFO    ] steps.tile_selector → 🎯 [Row 9] Matched tile text: 'Public Records Request'
+2026-04-07 12:19:49 [INFO    ] steps.tile_selector → ✅ [Row 9] Fallback tile click succeeded
+2026-04-07 12:19:52 [INFO    ] __main__ → [2/3] 🔐 Login — Row 9
+2026-04-07 12:19:52 [INFO    ] steps.login_handler → 🔄 [Row 9] Starting login sequence...
+2026-04-07 12:19:52 [INFO    ] steps.login_handler → 📧 [Row 9] Filling email field …
+2026-04-07 12:20:32 [ERROR   ] steps.login_handler → ❌ [Row 9] Could not find email/username input field
+2026-04-07 12:20:32 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row9_email_field_not_found_20260407_122032.png
+2026-04-07 12:20:32 [ERROR   ] __main__ → ❌ [Row 9] Step 2 (Login) failed — skipping row
+2026-04-07 12:20:35 [INFO    ] reports.result_writer → 📊 [Row 9] Result written to sheet: FAILED
+2026-04-07 12:20:35 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:20:37 [INFO    ] __main__ → 
+🔄 Record 9/20 — Row 10
+2026-04-07 12:20:37 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:20:37 [INFO    ] __main__ → ▶️  Processing Row 10 | https://oakforestil.govqa.us/WEBAPP/_rs/(S(pdneiq3 | agent-sr@smartprocure.us
+2026-04-07 12:20:37 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:20:37 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 10
+2026-04-07 12:20:37 [INFO    ] steps.tile_selector → 🌐 [Row 10] Opening URL: https://oakforestil.govqa.us/WEBAPP/_rs/(S(pdneiq3ssb235gucyneqxthv))/SupportHome.aspx?sSessionID=79127187200:32831TNPLENQJEUSCMPOOSBNMQLR
+2026-04-07 12:20:53 [INFO    ] steps.tile_selector → ✅ [Row 10] Page opened successfully
+2026-04-07 12:20:53 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:20:55 [INFO    ] steps.tile_selector → 🔍 [Row 10] Looking for City/public tile …
+2026-04-07 12:20:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:20:55 [WARNING ] steps.tile_selector → ⚠️  [Row 10] Standard click failed, trying JS click …
+2026-04-07 12:20:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:20:55 [WARNING ] steps.tile_selector → ⚠️  [Row 10] JS click failed, scanning all tiles …
+2026-04-07 12:20:55 [DEBUG   ] browser.element_helper → 🔍 Found 5 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:20:55 [INFO    ] steps.tile_selector → 🔍 [Row 10] Found 5 total tiles to scan
+2026-04-07 12:20:55 [INFO    ] steps.tile_selector → 🎯 [Row 10] Matched tile text: 'Public Records Archive'
+2026-04-07 12:21:00 [INFO    ] steps.tile_selector → ✅ [Row 10] Fallback tile click succeeded
+2026-04-07 12:21:03 [INFO    ] __main__ → [2/3] 🔐 Login — Row 10
+2026-04-07 12:21:03 [INFO    ] steps.login_handler → 🔄 [Row 10] Starting login sequence...
+2026-04-07 12:21:03 [INFO    ] steps.login_handler → 📧 [Row 10] Filling email field …
+2026-04-07 12:21:43 [ERROR   ] steps.login_handler → ❌ [Row 10] Could not find email/username input field
+2026-04-07 12:21:44 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row10_email_field_not_found_20260407_122143.png
+2026-04-07 12:21:44 [ERROR   ] __main__ → ❌ [Row 10] Step 2 (Login) failed — skipping row
+2026-04-07 12:21:46 [INFO    ] reports.result_writer → 📊 [Row 10] Result written to sheet: FAILED
+2026-04-07 12:21:46 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:21:48 [INFO    ] __main__ → 
+🔄 Record 10/20 — Row 11
+2026-04-07 12:21:48 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:21:48 [INFO    ] __main__ → ▶️  Processing Row 11 | https://warrenvilleil.govqa.us/WEBAPP/_rs/(S(xlaah | agent-sr@smartprocure.us
+2026-04-07 12:21:48 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:21:48 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 11
+2026-04-07 12:21:48 [INFO    ] steps.tile_selector → 🌐 [Row 11] Opening URL: https://warrenvilleil.govqa.us/WEBAPP/_rs/(S(xlaahcdpicmzbdx41mxp4lbt))/SupportHome.aspx?sSessionID=79127187190:8316NCSBJXZBSJFIXMSVGHI[UHIY
+2026-04-07 12:21:53 [INFO    ] steps.tile_selector → ✅ [Row 11] Page opened successfully
+2026-04-07 12:21:53 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:21:55 [INFO    ] steps.tile_selector → 🔍 [Row 11] Looking for City/public tile …
+2026-04-07 12:21:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:21:55 [WARNING ] steps.tile_selector → ⚠️  [Row 11] Standard click failed, trying JS click …
+2026-04-07 12:21:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:21:55 [WARNING ] steps.tile_selector → ⚠️  [Row 11] JS click failed, scanning all tiles …
+2026-04-07 12:21:55 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:21:55 [INFO    ] steps.tile_selector → 🔍 [Row 11] Found 4 total tiles to scan
+2026-04-07 12:21:55 [INFO    ] steps.tile_selector → 🎯 [Row 11] Matched tile text: 'Public Records Archive'
+2026-04-07 12:21:56 [INFO    ] steps.tile_selector → ✅ [Row 11] Fallback tile click succeeded
+2026-04-07 12:21:58 [INFO    ] __main__ → [2/3] 🔐 Login — Row 11
+2026-04-07 12:21:58 [INFO    ] steps.login_handler → 🔄 [Row 11] Starting login sequence...
+2026-04-07 12:21:58 [INFO    ] steps.login_handler → 📧 [Row 11] Filling email field …
+2026-04-07 12:22:38 [ERROR   ] steps.login_handler → ❌ [Row 11] Could not find email/username input field
+2026-04-07 12:22:39 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row11_email_field_not_found_20260407_122238.png
+2026-04-07 12:22:39 [ERROR   ] __main__ → ❌ [Row 11] Step 2 (Login) failed — skipping row
+2026-04-07 12:22:41 [INFO    ] reports.result_writer → 📊 [Row 11] Result written to sheet: FAILED
+2026-04-07 12:22:41 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:22:43 [INFO    ] __main__ → 
+🔄 Record 11/20 — Row 12
+2026-04-07 12:22:43 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:22:43 [INFO    ] __main__ → ▶️  Processing Row 12 | https://rollingmeadowsil.govqa.us/WEBAPP/_rs/(S(ql | agent-sr@smartprocure.us
+2026-04-07 12:22:43 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:22:43 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 12
+2026-04-07 12:22:43 [INFO    ] steps.tile_selector → 🌐 [Row 12] Opening URL: https://rollingmeadowsil.govqa.us/WEBAPP/_rs/(S(ql204idi35whjlf2xcmtvv2o))/SupportHome.aspx?sSessionID=1544725155:50629EMONSLZGKMUQKENAHZLWTPPB
+2026-04-07 12:22:47 [INFO    ] steps.tile_selector → ✅ [Row 12] Page opened successfully
+2026-04-07 12:22:47 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:22:49 [INFO    ] steps.tile_selector → 🔍 [Row 12] Looking for City/public tile …
+2026-04-07 12:22:49 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:22:49 [WARNING ] steps.tile_selector → ⚠️  [Row 12] Standard click failed, trying JS click …
+2026-04-07 12:22:49 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:22:49 [WARNING ] steps.tile_selector → ⚠️  [Row 12] JS click failed, scanning all tiles …
+2026-04-07 12:22:49 [DEBUG   ] browser.element_helper → 🔍 Found 5 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:22:49 [INFO    ] steps.tile_selector → 🔍 [Row 12] Found 5 total tiles to scan
+2026-04-07 12:22:49 [INFO    ] steps.tile_selector → 🎯 [Row 12] Matched tile text: 'Public Records Archive'
+2026-04-07 12:22:54 [INFO    ] steps.tile_selector → ✅ [Row 12] Fallback tile click succeeded
+2026-04-07 12:22:56 [INFO    ] __main__ → [2/3] 🔐 Login — Row 12
+2026-04-07 12:22:56 [INFO    ] steps.login_handler → 🔄 [Row 12] Starting login sequence...
+2026-04-07 12:22:56 [INFO    ] steps.login_handler → 📧 [Row 12] Filling email field …
+2026-04-07 12:23:36 [ERROR   ] steps.login_handler → ❌ [Row 12] Could not find email/username input field
+2026-04-07 12:23:37 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row12_email_field_not_found_20260407_122336.png
+2026-04-07 12:23:37 [ERROR   ] __main__ → ❌ [Row 12] Step 2 (Login) failed — skipping row
+2026-04-07 12:23:40 [INFO    ] reports.result_writer → 📊 [Row 12] Result written to sheet: FAILED
+2026-04-07 12:23:40 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:23:42 [INFO    ] __main__ → 
+🔄 Record 12/20 — Row 13
+2026-04-07 12:23:42 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:23:42 [INFO    ] __main__ → ▶️  Processing Row 13 | https://calumetcityil.govqa.us/WEBAPP/_rs/(S(vhtnu | agent-sr@smartprocure.us
+2026-04-07 12:23:42 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:23:42 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 13
+2026-04-07 12:23:42 [INFO    ] steps.tile_selector → 🌐 [Row 13] Opening URL: https://calumetcityil.govqa.us/WEBAPP/_rs/(S(vhtnuo1hpfaflb2m2ojy1ui4))/supporthome.aspx
+2026-04-07 12:23:45 [INFO    ] steps.tile_selector → ✅ [Row 13] Page opened successfully
+2026-04-07 12:23:45 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:23:47 [INFO    ] steps.tile_selector → 🔍 [Row 13] Looking for City/public tile …
+2026-04-07 12:23:47 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:23:47 [WARNING ] steps.tile_selector → ⚠️  [Row 13] Standard click failed, trying JS click …
+2026-04-07 12:23:47 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:23:47 [WARNING ] steps.tile_selector → ⚠️  [Row 13] JS click failed, scanning all tiles …
+2026-04-07 12:23:47 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:23:47 [INFO    ] steps.tile_selector → 🔍 [Row 13] Found 4 total tiles to scan
+2026-04-07 12:23:47 [INFO    ] steps.tile_selector → 🎯 [Row 13] Matched tile text: 'Public Records Archive'
+2026-04-07 12:23:50 [INFO    ] steps.tile_selector → ✅ [Row 13] Fallback tile click succeeded
+2026-04-07 12:23:53 [INFO    ] __main__ → [2/3] 🔐 Login — Row 13
+2026-04-07 12:23:53 [INFO    ] steps.login_handler → 🔄 [Row 13] Starting login sequence...
+2026-04-07 12:23:53 [INFO    ] steps.login_handler → 📧 [Row 13] Filling email field …
+2026-04-07 12:24:33 [ERROR   ] steps.login_handler → ❌ [Row 13] Could not find email/username input field
+2026-04-07 12:24:33 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row13_email_field_not_found_20260407_122433.png
+2026-04-07 12:24:33 [ERROR   ] __main__ → ❌ [Row 13] Step 2 (Login) failed — skipping row
+2026-04-07 12:24:35 [INFO    ] reports.result_writer → 📊 [Row 13] Result written to sheet: FAILED
+2026-04-07 12:24:35 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:24:37 [INFO    ] __main__ → 
+🔄 Record 13/20 — Row 14
+2026-04-07 12:24:37 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:24:37 [INFO    ] __main__ → ▶️  Processing Row 14 | https://bolingbrookil.govqa.us/WEBAPP/_rs/(S(ga5ri | agent-sr@smartprocure.us
+2026-04-07 12:24:37 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:24:37 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 14
+2026-04-07 12:24:37 [INFO    ] steps.tile_selector → 🌐 [Row 14] Opening URL: https://bolingbrookil.govqa.us/WEBAPP/_rs/(S(ga5riofc0v4ssw5chhmqb125))/SupportHome.aspx?sSessionID=1467014293:1663MHMSJAINRSRXSKUNOTORKHCZU
+2026-04-07 12:24:42 [INFO    ] steps.tile_selector → ✅ [Row 14] Page opened successfully
+2026-04-07 12:24:42 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:24:44 [INFO    ] steps.tile_selector → 🔍 [Row 14] Looking for City/public tile …
+2026-04-07 12:24:44 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:24:44 [WARNING ] steps.tile_selector → ⚠️  [Row 14] Standard click failed, trying JS click …
+2026-04-07 12:24:44 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:24:44 [WARNING ] steps.tile_selector → ⚠️  [Row 14] JS click failed, scanning all tiles …
+2026-04-07 12:24:44 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:24:44 [INFO    ] steps.tile_selector → 🔍 [Row 14] Found 4 total tiles to scan
+2026-04-07 12:24:44 [WARNING ] steps.tile_selector → ⚠️  [Row 14] No tile with 'City' or 'public' text found in 4 tiles
+2026-04-07 12:24:44 [ERROR   ] steps.tile_selector → ❌ [Row 14] Could not find or click City/public tile after all strategies
+2026-04-07 12:24:44 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row14_tile_not_found_20260407_122444.png
+2026-04-07 12:24:44 [ERROR   ] __main__ → ❌ [Row 14] Step 1 (Tile Selection) failed — skipping row
+2026-04-07 12:24:47 [INFO    ] reports.result_writer → 📊 [Row 14] Result written to sheet: FAILED
+2026-04-07 12:24:47 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:24:49 [INFO    ] __main__ → 
+🔄 Record 14/20 — Row 15
+2026-04-07 12:24:49 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:24:49 [INFO    ] __main__ → ▶️  Processing Row 15 | https://harveyil.govqa.us/WEBAPP/_rs/(S(x2ybkirden | agent-sr@smartprocure.us
+2026-04-07 12:24:49 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:24:49 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 15
+2026-04-07 12:24:49 [INFO    ] steps.tile_selector → 🌐 [Row 15] Opening URL: https://harveyil.govqa.us/WEBAPP/_rs/(S(x2ybkirdenlfvbti2tslrayg))/SupportHome.aspx
+2026-04-07 12:24:53 [INFO    ] steps.tile_selector → ✅ [Row 15] Page opened successfully
+2026-04-07 12:24:53 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:24:55 [INFO    ] steps.tile_selector → 🔍 [Row 15] Looking for City/public tile …
+2026-04-07 12:24:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:24:55 [WARNING ] steps.tile_selector → ⚠️  [Row 15] Standard click failed, trying JS click …
+2026-04-07 12:24:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:24:55 [WARNING ] steps.tile_selector → ⚠️  [Row 15] JS click failed, scanning all tiles …
+2026-04-07 12:24:55 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:24:55 [INFO    ] steps.tile_selector → 🔍 [Row 15] Found 4 total tiles to scan
+2026-04-07 12:24:55 [INFO    ] steps.tile_selector → 🎯 [Row 15] Matched tile text: 'Public Records Archive'
+2026-04-07 12:25:03 [INFO    ] steps.tile_selector → ✅ [Row 15] Fallback tile click succeeded
+2026-04-07 12:25:05 [INFO    ] __main__ → [2/3] 🔐 Login — Row 15
+2026-04-07 12:25:05 [INFO    ] steps.login_handler → 🔄 [Row 15] Starting login sequence...
+2026-04-07 12:25:05 [INFO    ] steps.login_handler → 📧 [Row 15] Filling email field …
+2026-04-07 12:25:45 [ERROR   ] steps.login_handler → ❌ [Row 15] Could not find email/username input field
+2026-04-07 12:25:45 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row15_email_field_not_found_20260407_122545.png
+2026-04-07 12:25:45 [ERROR   ] __main__ → ❌ [Row 15] Step 2 (Login) failed — skipping row
+2026-04-07 12:25:49 [INFO    ] reports.result_writer → 📊 [Row 15] Result written to sheet: FAILED
+2026-04-07 12:25:49 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:25:51 [INFO    ] __main__ → 
+🔄 Record 15/20 — Row 16
+2026-04-07 12:25:51 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:25:51 [INFO    ] __main__ → ▶️  Processing Row 16 | https://gurneeil.govqa.us/WEBAPP/_rs/(S(uxxvrsbe2l | agent-sr@smartprocure.us
+2026-04-07 12:25:51 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:25:51 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 16
+2026-04-07 12:25:51 [INFO    ] steps.tile_selector → 🌐 [Row 16] Opening URL: https://gurneeil.govqa.us/WEBAPP/_rs/(S(uxxvrsbe2lh2edfe4b5hcr0w))/SupportHome.aspx?sSessionID=21711317125:49020TIVZDBULVJUWYIAYBLBBTSV
+2026-04-07 12:25:56 [INFO    ] steps.tile_selector → ✅ [Row 16] Page opened successfully
+2026-04-07 12:25:56 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:25:58 [INFO    ] steps.tile_selector → 🔍 [Row 16] Looking for City/public tile …
+2026-04-07 12:25:58 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:25:58 [WARNING ] steps.tile_selector → ⚠️  [Row 16] Standard click failed, trying JS click …
+2026-04-07 12:25:58 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:25:58 [WARNING ] steps.tile_selector → ⚠️  [Row 16] JS click failed, scanning all tiles …
+2026-04-07 12:25:58 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:25:58 [INFO    ] steps.tile_selector → 🔍 [Row 16] Found 4 total tiles to scan
+2026-04-07 12:25:59 [INFO    ] steps.tile_selector → 🎯 [Row 16] Matched tile text: 'Public Records Request'
+2026-04-07 12:26:00 [INFO    ] steps.tile_selector → ✅ [Row 16] Fallback tile click succeeded
+2026-04-07 12:26:02 [INFO    ] __main__ → [2/3] 🔐 Login — Row 16
+2026-04-07 12:26:02 [INFO    ] steps.login_handler → 🔄 [Row 16] Starting login sequence...
+2026-04-07 12:26:02 [INFO    ] steps.login_handler → 📧 [Row 16] Filling email field …
+2026-04-07 12:26:43 [ERROR   ] steps.login_handler → ❌ [Row 16] Could not find email/username input field
+2026-04-07 12:26:43 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row16_email_field_not_found_20260407_122643.png
+2026-04-07 12:26:43 [ERROR   ] __main__ → ❌ [Row 16] Step 2 (Login) failed — skipping row
+2026-04-07 12:26:46 [INFO    ] reports.result_writer → 📊 [Row 16] Result written to sheet: FAILED
+2026-04-07 12:26:46 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:26:48 [INFO    ] __main__ → 
+🔄 Record 16/20 — Row 17
+2026-04-07 12:26:48 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:26:48 [INFO    ] __main__ → ▶️  Processing Row 17 | https://elkgrovevillageil.govqa.us/WEBAPP/_rs/(S(f | agent-sr@smartprocure.us
+2026-04-07 12:26:48 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:26:48 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 17
+2026-04-07 12:26:48 [INFO    ] steps.tile_selector → 🌐 [Row 17] Opening URL: https://elkgrovevillageil.govqa.us/WEBAPP/_rs/(S(fm4efc0mlftjuofrpt3z2kas))/supporthome.aspx
+2026-04-07 12:26:53 [INFO    ] steps.tile_selector → ✅ [Row 17] Page opened successfully
+2026-04-07 12:26:53 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:26:55 [INFO    ] steps.tile_selector → 🔍 [Row 17] Looking for City/public tile …
+2026-04-07 12:26:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:26:55 [WARNING ] steps.tile_selector → ⚠️  [Row 17] Standard click failed, trying JS click …
+2026-04-07 12:26:55 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:26:55 [WARNING ] steps.tile_selector → ⚠️  [Row 17] JS click failed, scanning all tiles …
+2026-04-07 12:26:55 [DEBUG   ] browser.element_helper → 🔍 Found 3 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:26:55 [INFO    ] steps.tile_selector → 🔍 [Row 17] Found 3 total tiles to scan
+2026-04-07 12:26:55 [WARNING ] steps.tile_selector → ⚠️  [Row 17] No tile with 'City' or 'public' text found in 3 tiles
+2026-04-07 12:26:55 [ERROR   ] steps.tile_selector → ❌ [Row 17] Could not find or click City/public tile after all strategies
+2026-04-07 12:26:55 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row17_tile_not_found_20260407_122655.png
+2026-04-07 12:26:55 [ERROR   ] __main__ → ❌ [Row 17] Step 1 (Tile Selection) failed — skipping row
+2026-04-07 12:26:58 [INFO    ] reports.result_writer → 📊 [Row 17] Result written to sheet: FAILED
+2026-04-07 12:26:58 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:27:00 [INFO    ] __main__ → 
+🔄 Record 17/20 — Row 18
+2026-04-07 12:27:00 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:27:00 [INFO    ] __main__ → ▶️  Processing Row 18 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(cb0uw4loqk | agent-sr@smartprocure.us
+2026-04-07 12:27:00 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:27:00 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 18
+2026-04-07 12:27:00 [INFO    ] steps.tile_selector → 🌐 [Row 18] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(cb0uw4loqk3lzlcdsfrnxka5))/supporthome.aspx
+2026-04-07 12:27:03 [INFO    ] steps.tile_selector → ✅ [Row 18] Page opened successfully
+2026-04-07 12:27:03 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:27:05 [INFO    ] steps.tile_selector → 🔍 [Row 18] Looking for City/public tile …
+2026-04-07 12:27:05 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:27:05 [WARNING ] steps.tile_selector → ⚠️  [Row 18] Standard click failed, trying JS click …
+2026-04-07 12:27:05 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:27:05 [WARNING ] steps.tile_selector → ⚠️  [Row 18] JS click failed, scanning all tiles …
+2026-04-07 12:27:05 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:27:05 [INFO    ] steps.tile_selector → 🔍 [Row 18] Found 8 total tiles to scan
+2026-04-07 12:27:05 [INFO    ] steps.tile_selector → 🎯 [Row 18] Matched tile text: 'My Public Records Center'
+2026-04-07 12:27:06 [INFO    ] steps.tile_selector → ✅ [Row 18] Fallback tile click succeeded
+2026-04-07 12:27:09 [INFO    ] __main__ → [2/3] 🔐 Login — Row 18
+2026-04-07 12:27:09 [INFO    ] steps.login_handler → 🔄 [Row 18] Starting login sequence...
+2026-04-07 12:27:09 [INFO    ] steps.login_handler → 📧 [Row 18] Filling email field …
+2026-04-07 12:27:49 [ERROR   ] steps.login_handler → ❌ [Row 18] Could not find email/username input field
+2026-04-07 12:27:49 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row18_email_field_not_found_20260407_122749.png
+2026-04-07 12:27:49 [ERROR   ] __main__ → ❌ [Row 18] Step 2 (Login) failed — skipping row
+2026-04-07 12:27:52 [INFO    ] reports.result_writer → 📊 [Row 18] Result written to sheet: FAILED
+2026-04-07 12:27:52 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:27:54 [INFO    ] __main__ → 
+🔄 Record 18/20 — Row 19
+2026-04-07 12:27:54 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:27:54 [INFO    ] __main__ → ▶️  Processing Row 19 | https://oakforestil.govqa.us/WEBAPP/_rs/(S(pdneiq3 | agent-sr@smartprocure.us
+2026-04-07 12:27:54 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:27:54 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 19
+2026-04-07 12:27:54 [INFO    ] steps.tile_selector → 🌐 [Row 19] Opening URL: https://oakforestil.govqa.us/WEBAPP/_rs/(S(pdneiq3ssb235gucyneqxthv))/SupportHome.aspx?sSessionID=79127187200:32831TNPLENQJEUSCMPOOSBNMQLR
+2026-04-07 12:27:58 [INFO    ] steps.tile_selector → ✅ [Row 19] Page opened successfully
+2026-04-07 12:27:58 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:28:00 [INFO    ] steps.tile_selector → 🔍 [Row 19] Looking for City/public tile …
+2026-04-07 12:28:00 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:28:00 [WARNING ] steps.tile_selector → ⚠️  [Row 19] Standard click failed, trying JS click …
+2026-04-07 12:28:00 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:28:00 [WARNING ] steps.tile_selector → ⚠️  [Row 19] JS click failed, scanning all tiles …
+2026-04-07 12:28:00 [DEBUG   ] browser.element_helper → 🔍 Found 5 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:28:00 [INFO    ] steps.tile_selector → 🔍 [Row 19] Found 5 total tiles to scan
+2026-04-07 12:28:00 [INFO    ] steps.tile_selector → 🎯 [Row 19] Matched tile text: 'Public Records Archive'
+2026-04-07 12:28:04 [INFO    ] steps.tile_selector → ✅ [Row 19] Fallback tile click succeeded
+2026-04-07 12:28:06 [INFO    ] __main__ → [2/3] 🔐 Login — Row 19
+2026-04-07 12:28:06 [INFO    ] steps.login_handler → 🔄 [Row 19] Starting login sequence...
+2026-04-07 12:28:06 [INFO    ] steps.login_handler → 📧 [Row 19] Filling email field …
+2026-04-07 12:28:46 [ERROR   ] steps.login_handler → ❌ [Row 19] Could not find email/username input field
+2026-04-07 12:28:47 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row19_email_field_not_found_20260407_122846.png
+2026-04-07 12:28:47 [ERROR   ] __main__ → ❌ [Row 19] Step 2 (Login) failed — skipping row
+2026-04-07 12:28:52 [INFO    ] reports.result_writer → 📊 [Row 19] Result written to sheet: FAILED
+2026-04-07 12:28:52 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:28:54 [INFO    ] __main__ → 
+🔄 Record 19/20 — Row 20
+2026-04-07 12:28:54 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:28:54 [INFO    ] __main__ → ▶️  Processing Row 20 | https://rollingmeadowsil.govqa.us/WEBAPP/_rs/(S(bk | agent-sr@smartprocure.us
+2026-04-07 12:28:54 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:28:54 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 20
+2026-04-07 12:28:54 [INFO    ] steps.tile_selector → 🌐 [Row 20] Opening URL: https://rollingmeadowsil.govqa.us/WEBAPP/_rs/(S(bk5wlmmomctcerq2ibvvo5rq))/SupportHome.aspx?sSessionID=1498810570:1603MTYTYOILYRLARNYNWKCP[RZOS
+2026-04-07 12:28:57 [INFO    ] steps.tile_selector → ✅ [Row 20] Page opened successfully
+2026-04-07 12:28:57 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:28:59 [INFO    ] steps.tile_selector → 🔍 [Row 20] Looking for City/public tile …
+2026-04-07 12:28:59 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:28:59 [WARNING ] steps.tile_selector → ⚠️  [Row 20] Standard click failed, trying JS click …
+2026-04-07 12:28:59 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:28:59 [WARNING ] steps.tile_selector → ⚠️  [Row 20] JS click failed, scanning all tiles …
+2026-04-07 12:28:59 [DEBUG   ] browser.element_helper → 🔍 Found 5 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:28:59 [INFO    ] steps.tile_selector → 🔍 [Row 20] Found 5 total tiles to scan
+2026-04-07 12:28:59 [INFO    ] steps.tile_selector → 🎯 [Row 20] Matched tile text: 'Public Records Archive'
+2026-04-07 12:29:02 [INFO    ] steps.tile_selector → ✅ [Row 20] Fallback tile click succeeded
+2026-04-07 12:29:04 [INFO    ] __main__ → [2/3] 🔐 Login — Row 20
+2026-04-07 12:29:04 [INFO    ] steps.login_handler → 🔄 [Row 20] Starting login sequence...
+2026-04-07 12:29:04 [INFO    ] steps.login_handler → 📧 [Row 20] Filling email field …
+2026-04-07 12:29:45 [ERROR   ] steps.login_handler → ❌ [Row 20] Could not find email/username input field
+2026-04-07 12:29:45 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row20_email_field_not_found_20260407_122945.png
+2026-04-07 12:29:45 [ERROR   ] __main__ → ❌ [Row 20] Step 2 (Login) failed — skipping row
+2026-04-07 12:29:48 [INFO    ] reports.result_writer → 📊 [Row 20] Result written to sheet: FAILED
+2026-04-07 12:29:48 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 12:29:50 [INFO    ] __main__ → 
+🔄 Record 20/20 — Row 21
+2026-04-07 12:29:50 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:29:50 [INFO    ] __main__ → ▶️  Processing Row 21 | https://rosemont.govqa.us/WEBAPP/_rs/(S(qjatkrlyds | agent-sr@smartprocure.us
+2026-04-07 12:29:50 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 12:29:50 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 21
+2026-04-07 12:29:50 [INFO    ] steps.tile_selector → 🌐 [Row 21] Opening URL: https://rosemont.govqa.us/WEBAPP/_rs/(S(qjatkrlydsakxmpca04junc4))/SupportHome.aspx?sSessionID=1498810570:41715MUUWDBQHJDFBWNYPPFHTNJJW
+2026-04-07 12:29:55 [INFO    ] steps.tile_selector → ✅ [Row 21] Page opened successfully
+2026-04-07 12:29:55 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 12:29:57 [INFO    ] steps.tile_selector → 🔍 [Row 21] Looking for City/public tile …
+2026-04-07 12:29:57 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:29:57 [WARNING ] steps.tile_selector → ⚠️  [Row 21] Standard click failed, trying JS click …
+2026-04-07 12:29:57 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5c68e4bb2b6a <unknown>
+#1 0x5c68e45c5a32 <unknown>
+#2 0x5c68e461a69a <unknown>
+#3 0x5c68e461afa1 <unknown>
+#4 0x5c68e4666144 <unknown>
+#5 0x5c68e4663369 <unknown>
+#6 0x5c68e460cc0f <unknown>
+#7 0x5c68e460d9d1 <unknown>
+#8 0x5c68e4b776b9 <unknown>
+#9 0x5c68e4b7a5c1 <unknown>
+#10 0x5c68e4b63e29 <unknown>
+#11 0x5c68e4b7b17e <unknown>
+#12 0x5c68e4b4a4b0 <unknown>
+#13 0x5c68e4b9f578 <unknown>
+#14 0x5c68e4b9f74b <unknown>
+#15 0x5c68e4bb11a3 <unknown>
+#16 0x7bb0f2a9caa4 <unknown>
+#17 0x7bb0f2b29c6c <unknown>
+
+2026-04-07 12:29:57 [WARNING ] steps.tile_selector → ⚠️  [Row 21] JS click failed, scanning all tiles …
+2026-04-07 12:29:57 [DEBUG   ] browser.element_helper → 🔍 Found 3 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 12:29:57 [INFO    ] steps.tile_selector → 🔍 [Row 21] Found 3 total tiles to scan
+2026-04-07 12:29:57 [INFO    ] steps.tile_selector → 🎯 [Row 21] Matched tile text: 'Public Records Archive'
+2026-04-07 12:30:03 [INFO    ] steps.tile_selector → ✅ [Row 21] Fallback tile click succeeded
+2026-04-07 12:30:05 [INFO    ] __main__ → [2/3] 🔐 Login — Row 21
+2026-04-07 12:30:05 [INFO    ] steps.login_handler → 🔄 [Row 21] Starting login sequence...
+2026-04-07 12:30:05 [INFO    ] steps.login_handler → 📧 [Row 21] Filling email field …
+2026-04-07 12:30:45 [ERROR   ] steps.login_handler → ❌ [Row 21] Could not find email/username input field
+2026-04-07 12:30:46 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row21_email_field_not_found_20260407_123045.png
+2026-04-07 12:30:46 [ERROR   ] __main__ → ❌ [Row 21] Step 2 (Login) failed — skipping row
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → 📊 [Row 21] Result written to sheet: FAILED
+2026-04-07 12:30:48 [INFO    ] __main__ → 🔒 Closing browser …
+2026-04-07 12:30:48 [INFO    ] browser.driver_setup → 🔒 WebDriver session closed
+2026-04-07 12:30:48 [INFO    ] __main__ → 📊 Writing final reports …
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → 📄 Failed records report saved → reports/results_failed.csv (20 rows)
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → 📊  AUTOMATION RUN SUMMARY
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   Total Rows   : 20
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   ✅ Success   : 0
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   ❌ Failed    : 20
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   ⏳ Pending   : 0
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   ❌ FAILED ROWS:
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 2 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 3 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 4 | https://sangamoncountyilsheriff.govqa.us | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 5 | https://glendaleheights.govqa.us/WEBAPP/ | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 6 | https://oaklawnil.govqa.us/WEBAPP/_rs/(S | Could not find or click City/public tile after all
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 7 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 8 | https://calumetcityil.govqa.us/WEBAPP/_r | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 9 | https://gurneeil.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 10 | https://oakforestil.govqa.us/WEBAPP/_rs/ | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 11 | https://warrenvilleil.govqa.us/WEBAPP/_r | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 12 | https://rollingmeadowsil.govqa.us/WEBAPP | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 13 | https://calumetcityil.govqa.us/WEBAPP/_r | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 14 | https://bolingbrookil.govqa.us/WEBAPP/_r | Could not find or click City/public tile after all
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 15 | https://harveyil.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 16 | https://gurneeil.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 17 | https://elkgrovevillageil.govqa.us/WEBAP | Could not find or click City/public tile after all
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 18 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 19 | https://oakforestil.govqa.us/WEBAPP/_rs/ | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 20 | https://rollingmeadowsil.govqa.us/WEBAPP | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →      Row 21 | https://rosemont.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   📁 CSV Results : reports/results.csv
+2026-04-07 12:30:48 [INFO    ] reports.result_writer →   📸 Screenshots : screenshots/
+2026-04-07 12:30:48 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 12:30:48 [INFO    ] __main__ → ============================================================
+2026-04-07 12:30:48 [INFO    ] __main__ → 🏁 RUN COMPLETE — ✅ 0 succeeded | ❌ 20 failed
+2026-04-07 12:30:48 [INFO    ] __main__ → ============================================================

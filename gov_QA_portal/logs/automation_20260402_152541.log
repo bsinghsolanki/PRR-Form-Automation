@@ -1,0 +1,876 @@
+2026-04-02 15:25:42 [INFO    ] __main__ → ============================================================
+2026-04-02 15:25:42 [INFO    ] __main__ → 🤖  FORM AUTOMATION STARTING
+2026-04-02 15:25:42 [INFO    ] __main__ → ============================================================
+2026-04-02 15:25:42 [INFO    ] __main__ → 📄 Loading records from sheet …
+2026-04-02 15:25:42 [INFO    ] data.sheet_reader → ✅ Google Sheets authenticated successfully
+2026-04-02 15:25:42 [INFO    ] data.sheet_reader → 📄 Opening Google Sheet ID: 1tPVwjc-UkupQibXsGur2StClfrIlWcyRlyMnLECepNg
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Loaded 20 rows from sheet 'test sheet'
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 2 domain: https://peoriaaz.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 2 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 3 domain: https://peoriaaz.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 3 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 4 domain: https://sangamoncountyilsheriff.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 4 loaded: https://sangamoncountyilsheriff.govqa.us | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 5 domain: https://glendaleheights.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 5 loaded: https://glendaleheights.govqa.us/WEBAPP/ | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 6 domain: https://oaklawnil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 6 loaded: https://oaklawnil.govqa.us/WEBAPP/_rs/(S | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 7 domain: https://peoriaaz.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 7 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 8 domain: https://calumetcityil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 8 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 9 domain: https://gurneeil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 9 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 10 domain: https://oakforestil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 10 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 11 domain: https://warrenvilleil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 11 loaded: https://warrenvilleil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 12 domain: https://rollingmeadowsil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 12 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 13 domain: https://calumetcityil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 13 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 14 domain: https://bolingbrookil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 14 loaded: https://bolingbrookil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 15 domain: https://harveyil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 15 loaded: https://harveyil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 16 domain: https://gurneeil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 16 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 17 domain: https://elkgrovevillageil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 17 loaded: https://elkgrovevillageil.govqa.us/WEBAP | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 18 domain: https://peoriaaz.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 18 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 19 domain: https://oakforestil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 19 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 20 domain: https://rollingmeadowsil.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 20 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 🌐 Row 21 domain: https://rosemont.govqa.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → ✅ Row 21 loaded: https://rosemont.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-02 15:25:46 [INFO    ] data.sheet_reader → 📋 20 valid records ready for processing
+2026-04-02 15:25:46 [INFO    ] __main__ → 📋 20 records queued for processing
+2026-04-02 15:25:46 [INFO    ] reports.result_writer → ✅ ResultWriter authenticated with Google Sheets
+2026-04-02 15:25:48 [INFO    ] reports.result_writer → ✅ Worksheet 'test sheet' opened for result writing
+2026-04-02 15:25:48 [INFO    ] browser.driver_setup → 🖥️  Running in VISIBLE mode
+2026-04-02 15:25:51 [INFO    ] browser.driver_setup → ✅ WebDriver initialized successfully
+2026-04-02 15:25:58 [INFO    ] __main__ → 
+🔄 Record 1/20 — Row 2
+2026-04-02 15:25:58 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:25:58 [INFO    ] __main__ → ▶️  Processing Row 2 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x | agent-sr@smartprocure.us
+2026-04-02 15:25:58 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:25:58 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 2
+2026-04-02 15:25:58 [INFO    ] steps.tile_selector → 🌐 [Row 2] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx
+2026-04-02 15:26:18 [INFO    ] steps.tile_selector → ✅ [Row 2] Page opened successfully
+2026-04-02 15:26:18 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-02 15:26:20 [INFO    ] steps.tile_selector → 🔍 [Row 2] Looking for City/public tile …
+2026-04-02 15:26:20 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:20 [WARNING ] steps.tile_selector → ⚠️  [Row 2] Standard click failed, trying JS click …
+2026-04-02 15:26:20 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:20 [WARNING ] steps.tile_selector → ⚠️  [Row 2] JS click failed, scanning all tiles …
+2026-04-02 15:26:20 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-02 15:26:20 [INFO    ] steps.tile_selector → 🔍 [Row 2] Found 8 total tiles to scan
+2026-04-02 15:26:20 [INFO    ] steps.tile_selector → 🎯 [Row 2] Matched tile text: 'Submit a City Records Request'
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287db8b007 <unknown>
+#3 0x61287db8ac16 <unknown>
+#4 0x61287db88731 <unknown>
+#5 0x61287db890bf <unknown>
+#6 0x61287db98560 <unknown>
+#7 0x61287dbb2707 <unknown>
+#8 0x61287dbb98db <unknown>
+#9 0x61287db89829 <unknown>
+#10 0x61287dbb249c <unknown>
+#11 0x61287dc416e1 <unknown>
+#12 0x61287dbeac0f <unknown>
+#13 0x61287dbeb9d1 <unknown>
+#14 0x61287e1556b9 <unknown>
+#15 0x61287e1585c1 <unknown>
+#16 0x61287e141e29 <unknown>
+#17 0x61287e15917e <unknown>
+#18 0x61287e1284b0 <unknown>
+#19 0x61287e17d578 <unknown>
+#20 0x61287e17d74b <unknown>
+#21 0x61287e18f1a3 <unknown>
+#22 0x7fbcc089caa4 <unknown>
+#23 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:26:50 [WARNING ] steps.tile_selector → ⚠️  [Row 2] No tile with 'City' or 'public' text found in 8 tiles
+2026-04-02 15:26:50 [ERROR   ] steps.tile_selector → ❌ [Row 2] Could not find or click City/public tile after all strategies
+2026-04-02 15:26:50 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row2_tile_not_found_20260402_152650.png
+2026-04-02 15:26:50 [ERROR   ] __main__ → ❌ [Row 2] Step 1 (Tile Selection) failed — skipping row
+2026-04-02 15:26:55 [INFO    ] reports.result_writer → 📊 [Row 2] Result written to sheet: FAILED
+2026-04-02 15:26:55 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-02 15:26:57 [INFO    ] __main__ → 
+🔄 Record 2/20 — Row 3
+2026-04-02 15:26:57 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:26:57 [INFO    ] __main__ → ▶️  Processing Row 3 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryr | agent-sr@smartprocure.us
+2026-04-02 15:26:57 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:26:57 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 3
+2026-04-02 15:26:57 [INFO    ] steps.tile_selector → 🌐 [Row 3] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryrtlm0ewx0o51mkt))/supporthome.aspx
+2026-04-02 15:27:24 [INFO    ] steps.tile_selector → ✅ [Row 3] Page opened successfully
+2026-04-02 15:27:24 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-02 15:27:26 [INFO    ] steps.tile_selector → 🔍 [Row 3] Looking for City/public tile …
+2026-04-02 15:27:26 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:26 [WARNING ] steps.tile_selector → ⚠️  [Row 3] Standard click failed, trying JS click …
+2026-04-02 15:27:26 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:26 [WARNING ] steps.tile_selector → ⚠️  [Row 3] JS click failed, scanning all tiles …
+2026-04-02 15:27:26 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-02 15:27:26 [INFO    ] steps.tile_selector → 🔍 [Row 3] Found 8 total tiles to scan
+2026-04-02 15:27:26 [INFO    ] steps.tile_selector → 🎯 [Row 3] Matched tile text: 'Submit a City Records Request'
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287db8b007 <unknown>
+#3 0x61287db8ac16 <unknown>
+#4 0x61287db88731 <unknown>
+#5 0x61287db890bf <unknown>
+#6 0x61287db98560 <unknown>
+#7 0x61287dbb2707 <unknown>
+#8 0x61287dbb98db <unknown>
+#9 0x61287db89829 <unknown>
+#10 0x61287dbb249c <unknown>
+#11 0x61287dc416e1 <unknown>
+#12 0x61287dbeac0f <unknown>
+#13 0x61287dbeb9d1 <unknown>
+#14 0x61287e1556b9 <unknown>
+#15 0x61287e1585c1 <unknown>
+#16 0x61287e141e29 <unknown>
+#17 0x61287e15917e <unknown>
+#18 0x61287e1284b0 <unknown>
+#19 0x61287e17d578 <unknown>
+#20 0x61287e17d74b <unknown>
+#21 0x61287e18f1a3 <unknown>
+#22 0x7fbcc089caa4 <unknown>
+#23 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [DEBUG   ] steps.tile_selector → Skipping stale tile element → Message: stale element reference: stale element not found
+  (Session info: chrome=145.0.7632.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbb842b <unknown>
+#3 0x61287dbb6ec1 <unknown>
+#4 0x61287dbab559 <unknown>
+#5 0x61287dba9729 <unknown>
+#6 0x61287dbad3d9 <unknown>
+#7 0x61287dbad483 <unknown>
+#8 0x61287dbf31d0 <unknown>
+#9 0x61287dbec617 <unknown>
+#10 0x61287dc41369 <unknown>
+#11 0x61287dbeac0f <unknown>
+#12 0x61287dbeb9d1 <unknown>
+#13 0x61287e1556b9 <unknown>
+#14 0x61287e1585c1 <unknown>
+#15 0x61287e141e29 <unknown>
+#16 0x61287e15917e <unknown>
+#17 0x61287e1284b0 <unknown>
+#18 0x61287e17d578 <unknown>
+#19 0x61287e17d74b <unknown>
+#20 0x61287e18f1a3 <unknown>
+#21 0x7fbcc089caa4 <unknown>
+#22 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:27:57 [WARNING ] steps.tile_selector → ⚠️  [Row 3] No tile with 'City' or 'public' text found in 8 tiles
+2026-04-02 15:27:57 [ERROR   ] steps.tile_selector → ❌ [Row 3] Could not find or click City/public tile after all strategies
+2026-04-02 15:27:57 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row3_tile_not_found_20260402_152757.png
+2026-04-02 15:27:57 [ERROR   ] __main__ → ❌ [Row 3] Step 1 (Tile Selection) failed — skipping row
+2026-04-02 15:28:03 [INFO    ] reports.result_writer → 📊 [Row 3] Result written to sheet: FAILED
+2026-04-02 15:28:03 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-02 15:28:05 [INFO    ] __main__ → 
+🔄 Record 3/20 — Row 4
+2026-04-02 15:28:05 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:28:05 [INFO    ] __main__ → ▶️  Processing Row 4 | https://sangamoncountyilsheriff.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-02 15:28:05 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:28:05 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 4
+2026-04-02 15:28:05 [INFO    ] steps.tile_selector → 🌐 [Row 4] Opening URL: https://sangamoncountyilsheriff.govqa.us/WEBAPP/_rs/(S(25cqysq5siot03ezjosh55se))/SupportHome.aspx?sSessionID=1544725208:45720JZJSQAKDOVEWAPFUGQYMYPHJ
+2026-04-02 15:28:30 [INFO    ] steps.tile_selector → ✅ [Row 4] Page opened successfully
+2026-04-02 15:28:30 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-02 15:28:32 [INFO    ] steps.tile_selector → 🔍 [Row 4] Looking for City/public tile …
+2026-04-02 15:28:32 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:28:32 [WARNING ] steps.tile_selector → ⚠️  [Row 4] Standard click failed, trying JS click …
+2026-04-02 15:28:32 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:28:32 [WARNING ] steps.tile_selector → ⚠️  [Row 4] JS click failed, scanning all tiles …
+2026-04-02 15:28:32 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-02 15:28:32 [INFO    ] steps.tile_selector → 🔍 [Row 4] Found 4 total tiles to scan
+2026-04-02 15:28:32 [INFO    ] steps.tile_selector → 🎯 [Row 4] Matched tile text: 'Public Records Archive'
+2026-04-02 15:29:00 [INFO    ] steps.tile_selector → ✅ [Row 4] Fallback tile click succeeded
+2026-04-02 15:29:03 [INFO    ] __main__ → [2/3] 🔐 Login — Row 4
+2026-04-02 15:29:03 [INFO    ] steps.login_handler → 🔄 [Row 4] Starting login sequence...
+2026-04-02 15:29:03 [INFO    ] steps.login_handler → 📧 [Row 4] Filling email field …
+2026-04-02 15:29:43 [ERROR   ] steps.login_handler → ❌ [Row 4] Could not find email/username input field
+2026-04-02 15:29:43 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row4_email_field_not_found_20260402_152943.png
+2026-04-02 15:29:43 [ERROR   ] __main__ → ❌ [Row 4] Step 2 (Login) failed — skipping row
+2026-04-02 15:29:46 [INFO    ] reports.result_writer → 📊 [Row 4] Result written to sheet: FAILED
+2026-04-02 15:29:46 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-02 15:29:48 [INFO    ] __main__ → 
+🔄 Record 4/20 — Row 5
+2026-04-02 15:29:48 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:29:48 [INFO    ] __main__ → ▶️  Processing Row 5 | https://glendaleheights.govqa.us/WEBAPP/_rs/(S(wfr | agent-sr@smartprocure.us
+2026-04-02 15:29:48 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:29:48 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 5
+2026-04-02 15:29:48 [INFO    ] steps.tile_selector → 🌐 [Row 5] Opening URL: https://glendaleheights.govqa.us/WEBAPP/_rs/(S(wfrzhrl1p10xcejumiucvgo1))/SupportHome.aspx?sSessionID=110227226190:54861YQIBOOYRJBRDEQQONJXEZV
+2026-04-02 15:30:11 [INFO    ] steps.tile_selector → ✅ [Row 5] Page opened successfully
+2026-04-02 15:30:11 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-02 15:30:13 [INFO    ] steps.tile_selector → 🔍 [Row 5] Looking for City/public tile …
+2026-04-02 15:30:13 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:30:13 [WARNING ] steps.tile_selector → ⚠️  [Row 5] Standard click failed, trying JS click …
+2026-04-02 15:30:13 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:30:13 [WARNING ] steps.tile_selector → ⚠️  [Row 5] JS click failed, scanning all tiles …
+2026-04-02 15:30:13 [DEBUG   ] browser.element_helper → 🔍 Found 2 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-02 15:30:13 [INFO    ] steps.tile_selector → 🔍 [Row 5] Found 2 total tiles to scan
+2026-04-02 15:30:13 [INFO    ] steps.tile_selector → 🎯 [Row 5] Matched tile text: 'Submit a Public Records Request'
+2026-04-02 15:30:15 [INFO    ] steps.tile_selector → ✅ [Row 5] Fallback tile click succeeded
+2026-04-02 15:30:18 [INFO    ] __main__ → [2/3] 🔐 Login — Row 5
+2026-04-02 15:30:18 [INFO    ] steps.login_handler → 🔄 [Row 5] Starting login sequence...
+2026-04-02 15:30:18 [INFO    ] steps.login_handler → 📧 [Row 5] Filling email field …
+2026-04-02 15:30:58 [ERROR   ] steps.login_handler → ❌ [Row 5] Could not find email/username input field
+2026-04-02 15:30:58 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row5_email_field_not_found_20260402_153058.png
+2026-04-02 15:30:58 [ERROR   ] __main__ → ❌ [Row 5] Step 2 (Login) failed — skipping row
+2026-04-02 15:31:06 [INFO    ] reports.result_writer → 📊 [Row 5] Result written to sheet: FAILED
+2026-04-02 15:31:06 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-02 15:31:08 [INFO    ] __main__ → 
+🔄 Record 5/20 — Row 6
+2026-04-02 15:31:08 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:31:08 [INFO    ] __main__ → ▶️  Processing Row 6 | https://oaklawnil.govqa.us/WEBAPP/_rs/(S(tlhpxbgp5 | agent-sr@smartprocure.us
+2026-04-02 15:31:08 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:31:08 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 6
+2026-04-02 15:31:08 [INFO    ] steps.tile_selector → 🌐 [Row 6] Opening URL: https://oaklawnil.govqa.us/WEBAPP/_rs/(S(tlhpxbgp50u5k432fqtquu2i))/SupportHome.aspx?sSessionID=1544725155:7127HTQOWBFVOVYUGNNCYXEXFSEFX
+2026-04-02 15:31:21 [INFO    ] steps.tile_selector → ✅ [Row 6] Page opened successfully
+2026-04-02 15:31:21 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-02 15:31:23 [INFO    ] steps.tile_selector → 🔍 [Row 6] Looking for City/public tile …
+2026-04-02 15:31:23 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:31:23 [WARNING ] steps.tile_selector → ⚠️  [Row 6] Standard click failed, trying JS click …
+2026-04-02 15:31:23 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:31:23 [WARNING ] steps.tile_selector → ⚠️  [Row 6] JS click failed, scanning all tiles …
+2026-04-02 15:31:28 [DEBUG   ] browser.element_helper → 🔍 Found 0 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-02 15:31:28 [INFO    ] steps.tile_selector → 🔍 [Row 6] Found 0 total tiles to scan
+2026-04-02 15:31:28 [WARNING ] steps.tile_selector → ⚠️  [Row 6] No tile with 'City' or 'public' text found in 0 tiles
+2026-04-02 15:31:28 [ERROR   ] steps.tile_selector → ❌ [Row 6] Could not find or click City/public tile after all strategies
+2026-04-02 15:31:29 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row6_tile_not_found_20260402_153128.png
+2026-04-02 15:31:29 [ERROR   ] __main__ → ❌ [Row 6] Step 1 (Tile Selection) failed — skipping row
+2026-04-02 15:31:32 [INFO    ] reports.result_writer → 📊 [Row 6] Result written to sheet: FAILED
+2026-04-02 15:31:32 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-02 15:31:34 [INFO    ] __main__ → 
+🔄 Record 6/20 — Row 7
+2026-04-02 15:31:34 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:31:34 [INFO    ] __main__ → ▶️  Processing Row 7 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(3ubnkh1tff | agent-sr@smartprocure.us
+2026-04-02 15:31:34 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-02 15:31:34 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 7
+2026-04-02 15:31:34 [INFO    ] steps.tile_selector → 🌐 [Row 7] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(3ubnkh1tfflazlfacim4rwyl))/supporthome.aspx
+2026-04-02 15:31:39 [INFO    ] steps.tile_selector → ✅ [Row 7] Page opened successfully
+2026-04-02 15:31:39 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-02 15:31:41 [INFO    ] steps.tile_selector → 🔍 [Row 7] Looking for City/public tile …
+2026-04-02 15:31:41 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:31:41 [WARNING ] steps.tile_selector → ⚠️  [Row 7] Standard click failed, trying JS click …
+2026-04-02 15:31:42 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x61287e190b6a <unknown>
+#1 0x61287dba3a32 <unknown>
+#2 0x61287dbf869a <unknown>
+#3 0x61287dbf8fa1 <unknown>
+#4 0x61287dc44144 <unknown>
+#5 0x61287dc41369 <unknown>
+#6 0x61287dbeac0f <unknown>
+#7 0x61287dbeb9d1 <unknown>
+#8 0x61287e1556b9 <unknown>
+#9 0x61287e1585c1 <unknown>
+#10 0x61287e141e29 <unknown>
+#11 0x61287e15917e <unknown>
+#12 0x61287e1284b0 <unknown>
+#13 0x61287e17d578 <unknown>
+#14 0x61287e17d74b <unknown>
+#15 0x61287e18f1a3 <unknown>
+#16 0x7fbcc089caa4 <unknown>
+#17 0x7fbcc0929c6c <unknown>
+
+2026-04-02 15:31:42 [WARNING ] steps.tile_selector → ⚠️  [Row 7] JS click failed, scanning all tiles …
+2026-04-02 15:31:42 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-02 15:31:42 [INFO    ] steps.tile_selector → 🔍 [Row 7] Found 8 total tiles to scan
+2026-04-02 15:31:42 [INFO    ] steps.tile_selector → 🎯 [Row 7] Matched tile text: 'Submit a City Records Request'

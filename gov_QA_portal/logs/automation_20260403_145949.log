@@ -1,0 +1,8 @@
+2026-04-03 14:59:49 [INFO    ] __main__ → ============================================================
+2026-04-03 14:59:49 [INFO    ] __main__ → 🤖  FORM AUTOMATION STARTING
+2026-04-03 14:59:49 [INFO    ] __main__ → ============================================================
+2026-04-03 14:59:49 [INFO    ] __main__ → 📄 Loading records from sheet …
+2026-04-03 14:59:49 [INFO    ] data.sheet_reader → ✅ Google Sheets authenticated successfully
+2026-04-03 14:59:49 [INFO    ] data.sheet_reader → 📄 Opening Google Sheet ID: 1eme9otlmYuC-pLJdYtEU6kdpUVWCKN3dK32rYK2smkE
+2026-04-03 14:59:51 [ERROR   ] data.sheet_reader → ❌ Sheet tab 'Input for GOV QA' not found. Check SHEET_NAME in .env
+2026-04-03 14:59:51 [ERROR   ] __main__ → ❌ Failed to load sheet data → Input for GOV QA

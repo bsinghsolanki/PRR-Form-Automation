@@ -1,0 +1,282 @@
+2026-04-07 13:18:18 [INFO    ] __main__ → ============================================================
+2026-04-07 13:18:18 [INFO    ] __main__ → 🤖  FORM AUTOMATION STARTING
+2026-04-07 13:18:18 [INFO    ] __main__ → ============================================================
+2026-04-07 13:18:18 [INFO    ] __main__ → 📄 Loading records from sheet …
+2026-04-07 13:18:18 [INFO    ] data.sheet_reader → ✅ Google Sheets authenticated successfully
+2026-04-07 13:18:18 [INFO    ] data.sheet_reader → 📄 Opening Google Sheet ID: 1tPVwjc-UkupQibXsGur2StClfrIlWcyRlyMnLECepNg
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Loaded 20 rows from sheet 'test sheet'
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 2 domain: https://peoriaaz.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 2 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 3 domain: https://peoriaaz.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 3 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 4 domain: https://sangamoncountyilsheriff.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 4 loaded: https://sangamoncountyilsheriff.govqa.us | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 5 domain: https://glendaleheights.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 5 loaded: https://glendaleheights.govqa.us/WEBAPP/ | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 6 domain: https://oaklawnil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 6 loaded: https://oaklawnil.govqa.us/WEBAPP/_rs/(S | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 7 domain: https://peoriaaz.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 7 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 8 domain: https://calumetcityil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 8 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 9 domain: https://gurneeil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 9 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 10 domain: https://oakforestil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 10 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 11 domain: https://warrenvilleil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 11 loaded: https://warrenvilleil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 12 domain: https://rollingmeadowsil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 12 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 13 domain: https://calumetcityil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 13 loaded: https://calumetcityil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 14 domain: https://bolingbrookil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 14 loaded: https://bolingbrookil.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 15 domain: https://harveyil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 15 loaded: https://harveyil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 16 domain: https://gurneeil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 16 loaded: https://gurneeil.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 17 domain: https://elkgrovevillageil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 17 loaded: https://elkgrovevillageil.govqa.us/WEBAP | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 18 domain: https://peoriaaz.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 18 loaded: https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 19 domain: https://oakforestil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 19 loaded: https://oakforestil.govqa.us/WEBAPP/_rs/ | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 20 domain: https://rollingmeadowsil.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 20 loaded: https://rollingmeadowsil.govqa.us/WEBAPP | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 🌐 Row 21 domain: https://rosemont.govqa.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → ✅ Row 21 loaded: https://rosemont.govqa.us/WEBAPP/_rs/(S( | agent-sr@smartprocure.us
+2026-04-07 13:18:21 [INFO    ] data.sheet_reader → 📋 20 valid records ready for processing
+2026-04-07 13:18:21 [INFO    ] __main__ → 📋 20 records queued for processing
+2026-04-07 13:18:21 [INFO    ] reports.result_writer → ✅ ResultWriter authenticated with Google Sheets
+2026-04-07 13:18:23 [INFO    ] reports.result_writer → ✅ Worksheet 'test sheet' opened for result writing
+2026-04-07 13:18:23 [INFO    ] browser.driver_setup → 🖥️  Running in VISIBLE mode
+2026-04-07 13:18:26 [INFO    ] browser.driver_setup → ✅ WebDriver initialized successfully
+2026-04-07 13:18:26 [INFO    ] __main__ → 
+🔄 Record 1/20 — Row 2
+2026-04-07 13:18:26 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 13:18:26 [INFO    ] __main__ → ▶️  Processing Row 2 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x | agent-sr@smartprocure.us
+2026-04-07 13:18:26 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 13:18:26 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 2
+2026-04-07 13:18:26 [INFO    ] steps.tile_selector → 🌐 [Row 2] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx
+2026-04-07 13:18:31 [INFO    ] steps.tile_selector → ✅ [Row 2] Page opened successfully
+2026-04-07 13:18:31 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 13:18:33 [INFO    ] steps.tile_selector → 🔍 [Row 2] Looking for City/public tile …
+2026-04-07 13:18:33 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x57bea350eb6a <unknown>
+#1 0x57bea2f21a32 <unknown>
+#2 0x57bea2f7669a <unknown>
+#3 0x57bea2f76fa1 <unknown>
+#4 0x57bea2fc2144 <unknown>
+#5 0x57bea2fbf369 <unknown>
+#6 0x57bea2f68c0f <unknown>
+#7 0x57bea2f699d1 <unknown>
+#8 0x57bea34d36b9 <unknown>
+#9 0x57bea34d65c1 <unknown>
+#10 0x57bea34bfe29 <unknown>
+#11 0x57bea34d717e <unknown>
+#12 0x57bea34a64b0 <unknown>
+#13 0x57bea34fb578 <unknown>
+#14 0x57bea34fb74b <unknown>
+#15 0x57bea350d1a3 <unknown>
+#16 0x760e13c9caa4 <unknown>
+#17 0x760e13d29c6c <unknown>
+
+2026-04-07 13:18:33 [WARNING ] steps.tile_selector → ⚠️  [Row 2] Standard click failed, trying JS click …
+2026-04-07 13:18:33 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x57bea350eb6a <unknown>
+#1 0x57bea2f21a32 <unknown>
+#2 0x57bea2f7669a <unknown>
+#3 0x57bea2f76fa1 <unknown>
+#4 0x57bea2fc2144 <unknown>
+#5 0x57bea2fbf369 <unknown>
+#6 0x57bea2f68c0f <unknown>
+#7 0x57bea2f699d1 <unknown>
+#8 0x57bea34d36b9 <unknown>
+#9 0x57bea34d65c1 <unknown>
+#10 0x57bea34bfe29 <unknown>
+#11 0x57bea34d717e <unknown>
+#12 0x57bea34a64b0 <unknown>
+#13 0x57bea34fb578 <unknown>
+#14 0x57bea34fb74b <unknown>
+#15 0x57bea350d1a3 <unknown>
+#16 0x760e13c9caa4 <unknown>
+#17 0x760e13d29c6c <unknown>
+
+2026-04-07 13:18:33 [WARNING ] steps.tile_selector → ⚠️  [Row 2] JS click failed, scanning all tiles …
+2026-04-07 13:18:33 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 13:18:33 [INFO    ] steps.tile_selector → 🔍 [Row 2] Found 8 total tiles to scan
+2026-04-07 13:18:33 [INFO    ] steps.tile_selector → 🎯 [Row 2] Matched tile text: 'My Public Records Center'
+2026-04-07 13:18:34 [INFO    ] steps.tile_selector → ✅ [Row 2] Fallback tile click succeeded
+2026-04-07 13:18:37 [INFO    ] __main__ → [2/3] 🔐 Login — Row 2
+2026-04-07 13:18:37 [INFO    ] steps.login_handler → 🔄 [Row 2] Starting login sequence...
+2026-04-07 13:18:37 [INFO    ] steps.login_handler → 📧 [Row 2] Filling email field …
+2026-04-07 13:19:17 [ERROR   ] steps.login_handler → ❌ [Row 2] Could not find email/username input field
+2026-04-07 13:19:17 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row2_email_field_not_found_20260407_131917.png
+2026-04-07 13:19:17 [ERROR   ] __main__ → ❌ [Row 2] Step 2 (Login) failed — skipping row
+2026-04-07 13:19:20 [INFO    ] reports.result_writer → 📊 [Row 2] Result written to sheet: FAILED
+2026-04-07 13:19:20 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 13:19:22 [INFO    ] __main__ → 
+🔄 Record 2/20 — Row 3
+2026-04-07 13:19:22 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 13:19:22 [INFO    ] __main__ → ▶️  Processing Row 3 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryr | agent-sr@smartprocure.us
+2026-04-07 13:19:22 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 13:19:22 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 3
+2026-04-07 13:19:22 [INFO    ] steps.tile_selector → 🌐 [Row 3] Opening URL: https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryrtlm0ewx0o51mkt))/supporthome.aspx
+2026-04-07 13:19:24 [INFO    ] steps.tile_selector → ✅ [Row 3] Page opened successfully
+2026-04-07 13:19:24 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 13:19:26 [INFO    ] steps.tile_selector → 🔍 [Row 3] Looking for City/public tile …
+2026-04-07 13:19:26 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x57bea350eb6a <unknown>
+#1 0x57bea2f21a32 <unknown>
+#2 0x57bea2f7669a <unknown>
+#3 0x57bea2f76fa1 <unknown>
+#4 0x57bea2fc2144 <unknown>
+#5 0x57bea2fbf369 <unknown>
+#6 0x57bea2f68c0f <unknown>
+#7 0x57bea2f699d1 <unknown>
+#8 0x57bea34d36b9 <unknown>
+#9 0x57bea34d65c1 <unknown>
+#10 0x57bea34bfe29 <unknown>
+#11 0x57bea34d717e <unknown>
+#12 0x57bea34a64b0 <unknown>
+#13 0x57bea34fb578 <unknown>
+#14 0x57bea34fb74b <unknown>
+#15 0x57bea350d1a3 <unknown>
+#16 0x760e13c9caa4 <unknown>
+#17 0x760e13d29c6c <unknown>
+
+2026-04-07 13:19:26 [WARNING ] steps.tile_selector → ⚠️  [Row 3] Standard click failed, trying JS click …
+2026-04-07 13:19:26 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x57bea350eb6a <unknown>
+#1 0x57bea2f21a32 <unknown>
+#2 0x57bea2f7669a <unknown>
+#3 0x57bea2f76fa1 <unknown>
+#4 0x57bea2fc2144 <unknown>
+#5 0x57bea2fbf369 <unknown>
+#6 0x57bea2f68c0f <unknown>
+#7 0x57bea2f699d1 <unknown>
+#8 0x57bea34d36b9 <unknown>
+#9 0x57bea34d65c1 <unknown>
+#10 0x57bea34bfe29 <unknown>
+#11 0x57bea34d717e <unknown>
+#12 0x57bea34a64b0 <unknown>
+#13 0x57bea34fb578 <unknown>
+#14 0x57bea34fb74b <unknown>
+#15 0x57bea350d1a3 <unknown>
+#16 0x760e13c9caa4 <unknown>
+#17 0x760e13d29c6c <unknown>
+
+2026-04-07 13:19:26 [WARNING ] steps.tile_selector → ⚠️  [Row 3] JS click failed, scanning all tiles …
+2026-04-07 13:19:26 [DEBUG   ] browser.element_helper → 🔍 Found 8 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 13:19:26 [INFO    ] steps.tile_selector → 🔍 [Row 3] Found 8 total tiles to scan
+2026-04-07 13:19:27 [INFO    ] steps.tile_selector → 🎯 [Row 3] Matched tile text: 'My Public Records Center'
+2026-04-07 13:19:28 [INFO    ] steps.tile_selector → ✅ [Row 3] Fallback tile click succeeded
+2026-04-07 13:19:30 [INFO    ] __main__ → [2/3] 🔐 Login — Row 3
+2026-04-07 13:19:30 [INFO    ] steps.login_handler → 🔄 [Row 3] Starting login sequence...
+2026-04-07 13:19:30 [INFO    ] steps.login_handler → 📧 [Row 3] Filling email field …
+2026-04-07 13:20:11 [ERROR   ] steps.login_handler → ❌ [Row 3] Could not find email/username input field
+2026-04-07 13:20:11 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row3_email_field_not_found_20260407_132011.png
+2026-04-07 13:20:11 [ERROR   ] __main__ → ❌ [Row 3] Step 2 (Login) failed — skipping row
+2026-04-07 13:20:14 [INFO    ] reports.result_writer → 📊 [Row 3] Result written to sheet: FAILED
+2026-04-07 13:20:14 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 13:20:16 [INFO    ] __main__ → 
+🔄 Record 3/20 — Row 4
+2026-04-07 13:20:16 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 13:20:16 [INFO    ] __main__ → ▶️  Processing Row 4 | https://sangamoncountyilsheriff.govqa.us/WEBAPP/_r | agent-sr@smartprocure.us
+2026-04-07 13:20:16 [INFO    ] __main__ → ────────────────────────────────────────────────────────────
+2026-04-07 13:20:16 [INFO    ] __main__ → [1/3] 🌐 Tile Selection — Row 4
+2026-04-07 13:20:16 [INFO    ] steps.tile_selector → 🌐 [Row 4] Opening URL: https://sangamoncountyilsheriff.govqa.us/WEBAPP/_rs/(S(25cqysq5siot03ezjosh55se))/SupportHome.aspx?sSessionID=1544725208:45720JZJSQAKDOVEWAPFUGQYMYPHJ
+2026-04-07 13:20:20 [INFO    ] steps.tile_selector → ✅ [Row 4] Page opened successfully
+2026-04-07 13:20:20 [DEBUG   ] browser.element_helper → ✅ Page fully loaded
+2026-04-07 13:20:22 [INFO    ] steps.tile_selector → 🔍 [Row 4] Looking for City/public tile …
+2026-04-07 13:20:22 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x57bea350eb6a <unknown>
+#1 0x57bea2f21a32 <unknown>
+#2 0x57bea2f7669a <unknown>
+#3 0x57bea2f76fa1 <unknown>
+#4 0x57bea2fc2144 <unknown>
+#5 0x57bea2fbf369 <unknown>
+#6 0x57bea2f68c0f <unknown>
+#7 0x57bea2f699d1 <unknown>
+#8 0x57bea34d36b9 <unknown>
+#9 0x57bea34d65c1 <unknown>
+#10 0x57bea34bfe29 <unknown>
+#11 0x57bea34d717e <unknown>
+#12 0x57bea34a64b0 <unknown>
+#13 0x57bea34fb578 <unknown>
+#14 0x57bea34fb74b <unknown>
+#15 0x57bea350d1a3 <unknown>
+#16 0x760e13c9caa4 <unknown>
+#17 0x760e13d29c6c <unknown>
+
+2026-04-07 13:20:22 [WARNING ] steps.tile_selector → ⚠️  [Row 4] Standard click failed, trying JS click …
+2026-04-07 13:20:22 [ERROR   ] browser.element_helper → ❌ Click failed on ('//div[@class="tiles tile-group four-wide "]/div//h3[contains(text(), "City") or contains(text(), "public")]', '//nav[@role="navigation"]//a[contains(text(), "Submit a Request")]') → Message: invalid argument: 'value' must be a string
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x57bea350eb6a <unknown>
+#1 0x57bea2f21a32 <unknown>
+#2 0x57bea2f7669a <unknown>
+#3 0x57bea2f76fa1 <unknown>
+#4 0x57bea2fc2144 <unknown>
+#5 0x57bea2fbf369 <unknown>
+#6 0x57bea2f68c0f <unknown>
+#7 0x57bea2f699d1 <unknown>
+#8 0x57bea34d36b9 <unknown>
+#9 0x57bea34d65c1 <unknown>
+#10 0x57bea34bfe29 <unknown>
+#11 0x57bea34d717e <unknown>
+#12 0x57bea34a64b0 <unknown>
+#13 0x57bea34fb578 <unknown>
+#14 0x57bea34fb74b <unknown>
+#15 0x57bea350d1a3 <unknown>
+#16 0x760e13c9caa4 <unknown>
+#17 0x760e13d29c6c <unknown>
+
+2026-04-07 13:20:22 [WARNING ] steps.tile_selector → ⚠️  [Row 4] JS click failed, scanning all tiles …
+2026-04-07 13:20:22 [DEBUG   ] browser.element_helper → 🔍 Found 4 elements: //div[contains(@class,"tile-group")]//h3
+2026-04-07 13:20:22 [INFO    ] steps.tile_selector → 🔍 [Row 4] Found 4 total tiles to scan
+2026-04-07 13:20:22 [INFO    ] steps.tile_selector → 🎯 [Row 4] Matched tile text: 'Public Records Archive'
+2026-04-07 13:20:26 [INFO    ] steps.tile_selector → ✅ [Row 4] Fallback tile click succeeded
+2026-04-07 13:20:29 [INFO    ] __main__ → [2/3] 🔐 Login — Row 4
+2026-04-07 13:20:29 [INFO    ] steps.login_handler → 🔄 [Row 4] Starting login sequence...
+2026-04-07 13:20:29 [INFO    ] steps.login_handler → 📧 [Row 4] Filling email field …
+2026-04-07 13:21:09 [ERROR   ] steps.login_handler → ❌ [Row 4] Could not find email/username input field
+2026-04-07 13:21:10 [ERROR   ] browser.screenshot → 📸 Error screenshot saved → screenshots/errors/row4_email_field_not_found_20260407_132109.png
+2026-04-07 13:21:10 [ERROR   ] __main__ → ❌ [Row 4] Step 2 (Login) failed — skipping row
+2026-04-07 13:21:12 [INFO    ] reports.result_writer → 📊 [Row 4] Result written to sheet: FAILED
+2026-04-07 13:21:12 [INFO    ] __main__ → ⏳ Waiting 2.0s before next record …
+2026-04-07 13:21:14 [WARNING ] __main__ → 
+⚠️  Run interrupted by user (Ctrl+C)
+2026-04-07 13:21:14 [INFO    ] __main__ → 🔒 Closing browser …
+2026-04-07 13:21:14 [INFO    ] browser.driver_setup → 🔒 WebDriver session closed
+2026-04-07 13:21:14 [INFO    ] __main__ → 📊 Writing final reports …
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → 📄 Failed records report saved → reports/results_failed.csv (3 rows)
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → 📊  AUTOMATION RUN SUMMARY
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   Total Rows   : 20
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   ✅ Success   : 0
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   ❌ Failed    : 3
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   ⏳ Pending   : 17
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   ❌ FAILED ROWS:
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →      Row 2 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →      Row 3 | https://peoriaaz.govqa.us/WEBAPP/_rs/(S( | Could not find email/username input field
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →      Row 4 | https://sangamoncountyilsheriff.govqa.us | Could not find email/username input field
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   📁 CSV Results : reports/results.csv
+2026-04-07 13:21:14 [INFO    ] reports.result_writer →   📸 Screenshots : screenshots/
+2026-04-07 13:21:14 [INFO    ] reports.result_writer → ============================================================
+2026-04-07 13:21:14 [INFO    ] __main__ → ============================================================
+2026-04-07 13:21:14 [INFO    ] __main__ → 🏁 RUN COMPLETE — ✅ 0 succeeded | ❌ 3 failed
+2026-04-07 13:21:14 [INFO    ] __main__ → ============================================================

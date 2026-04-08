@@ -1,0 +1,52 @@
+row_number,url,email,status,error_message,screenshot_path,timestamp
+2,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find or click City/public tile after all strategies,screenshots/errors/row2_tile_not_found_20260402_152650.png,2026-04-02 15:26:50
+3,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryrtlm0ewx0o51mkt))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find or click City/public tile after all strategies,screenshots/errors/row3_tile_not_found_20260402_152757.png,2026-04-02 15:27:57
+4,https://sangamoncountyilsheriff.govqa.us/WEBAPP/_rs/(S(25cqysq5siot03ezjosh55se))/SupportHome.aspx?sSessionID=1544725208:45720JZJSQAKDOVEWAPFUGQYMYPHJ,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row4_email_field_not_found_20260402_152943.png,2026-04-02 15:29:43
+5,https://glendaleheights.govqa.us/WEBAPP/_rs/(S(wfrzhrl1p10xcejumiucvgo1))/SupportHome.aspx?sSessionID=110227226190:54861YQIBOOYRJBRDEQQONJXEZV,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row5_email_field_not_found_20260402_153058.png,2026-04-02 15:30:58
+6,https://oaklawnil.govqa.us/WEBAPP/_rs/(S(tlhpxbgp50u5k432fqtquu2i))/SupportHome.aspx?sSessionID=1544725155:7127HTQOWBFVOVYUGNNCYXEXFSEFX,agent-sr@smartprocure.us,FAILED,Could not find or click City/public tile after all strategies,screenshots/errors/row6_tile_not_found_20260402_153128.png,2026-04-02 15:31:29
+2,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row2_email_field_not_found_20260407_121344.png,2026-04-07 12:13:44
+3,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryrtlm0ewx0o51mkt))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row3_email_field_not_found_20260407_121449.png,2026-04-07 12:14:49
+4,https://sangamoncountyilsheriff.govqa.us/WEBAPP/_rs/(S(25cqysq5siot03ezjosh55se))/SupportHome.aspx?sSessionID=1544725208:45720JZJSQAKDOVEWAPFUGQYMYPHJ,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row4_email_field_not_found_20260407_121551.png,2026-04-07 12:15:51
+5,https://glendaleheights.govqa.us/WEBAPP/_rs/(S(wfrzhrl1p10xcejumiucvgo1))/SupportHome.aspx?sSessionID=110227226190:54861YQIBOOYRJBRDEQQONJXEZV,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row5_email_field_not_found_20260407_121650.png,2026-04-07 12:16:50
+6,https://oaklawnil.govqa.us/WEBAPP/_rs/(S(tlhpxbgp50u5k432fqtquu2i))/SupportHome.aspx?sSessionID=1544725155:7127HTQOWBFVOVYUGNNCYXEXFSEFX,agent-sr@smartprocure.us,FAILED,Could not find or click City/public tile after all strategies,screenshots/errors/row6_tile_not_found_20260407_121718.png,2026-04-07 12:17:18
+7,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(3ubnkh1tfflazlfacim4rwyl))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row7_email_field_not_found_20260407_121812.png,2026-04-07 12:18:12
+8,https://calumetcityil.govqa.us/WEBAPP/_rs/(S(vhtnuo1hpfaflb2m2ojy1ui4))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row8_email_field_not_found_20260407_121925.png,2026-04-07 12:19:25
+9,https://gurneeil.govqa.us/WEBAPP/_rs/(S(uxxvrsbe2lh2edfe4b5hcr0w))/SupportHome.aspx?sSessionID=21711317125:49020TIVZDBULVJUWYIAYBLBBTSV,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row9_email_field_not_found_20260407_122032.png,2026-04-07 12:20:32
+10,https://oakforestil.govqa.us/WEBAPP/_rs/(S(pdneiq3ssb235gucyneqxthv))/SupportHome.aspx?sSessionID=79127187200:32831TNPLENQJEUSCMPOOSBNMQLR,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row10_email_field_not_found_20260407_122143.png,2026-04-07 12:21:44
+11,https://warrenvilleil.govqa.us/WEBAPP/_rs/(S(xlaahcdpicmzbdx41mxp4lbt))/SupportHome.aspx?sSessionID=79127187190:8316NCSBJXZBSJFIXMSVGHI[UHIY,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row11_email_field_not_found_20260407_122238.png,2026-04-07 12:22:39
+12,https://rollingmeadowsil.govqa.us/WEBAPP/_rs/(S(ql204idi35whjlf2xcmtvv2o))/SupportHome.aspx?sSessionID=1544725155:50629EMONSLZGKMUQKENAHZLWTPPB,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row12_email_field_not_found_20260407_122336.png,2026-04-07 12:23:37
+13,https://calumetcityil.govqa.us/WEBAPP/_rs/(S(vhtnuo1hpfaflb2m2ojy1ui4))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row13_email_field_not_found_20260407_122433.png,2026-04-07 12:24:33
+14,https://bolingbrookil.govqa.us/WEBAPP/_rs/(S(ga5riofc0v4ssw5chhmqb125))/SupportHome.aspx?sSessionID=1467014293:1663MHMSJAINRSRXSKUNOTORKHCZU,agent-sr@smartprocure.us,FAILED,Could not find or click City/public tile after all strategies,screenshots/errors/row14_tile_not_found_20260407_122444.png,2026-04-07 12:24:44
+15,https://harveyil.govqa.us/WEBAPP/_rs/(S(x2ybkirdenlfvbti2tslrayg))/SupportHome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row15_email_field_not_found_20260407_122545.png,2026-04-07 12:25:45
+16,https://gurneeil.govqa.us/WEBAPP/_rs/(S(uxxvrsbe2lh2edfe4b5hcr0w))/SupportHome.aspx?sSessionID=21711317125:49020TIVZDBULVJUWYIAYBLBBTSV,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row16_email_field_not_found_20260407_122643.png,2026-04-07 12:26:43
+17,https://elkgrovevillageil.govqa.us/WEBAPP/_rs/(S(fm4efc0mlftjuofrpt3z2kas))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find or click City/public tile after all strategies,screenshots/errors/row17_tile_not_found_20260407_122655.png,2026-04-07 12:26:55
+18,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(cb0uw4loqk3lzlcdsfrnxka5))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row18_email_field_not_found_20260407_122749.png,2026-04-07 12:27:49
+19,https://oakforestil.govqa.us/WEBAPP/_rs/(S(pdneiq3ssb235gucyneqxthv))/SupportHome.aspx?sSessionID=79127187200:32831TNPLENQJEUSCMPOOSBNMQLR,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row19_email_field_not_found_20260407_122846.png,2026-04-07 12:28:47
+20,https://rollingmeadowsil.govqa.us/WEBAPP/_rs/(S(bk5wlmmomctcerq2ibvvo5rq))/SupportHome.aspx?sSessionID=1498810570:1603MTYTYOILYRLARNYNWKCP[RZOS,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row20_email_field_not_found_20260407_122945.png,2026-04-07 12:29:45
+21,https://rosemont.govqa.us/WEBAPP/_rs/(S(qjatkrlydsakxmpca04junc4))/SupportHome.aspx?sSessionID=1498810570:41715MUUWDBQHJDFBWNYPPFHTNJJW,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row21_email_field_not_found_20260407_123045.png,2026-04-07 12:30:46
+2,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row2_email_field_not_found_20260407_131917.png,2026-04-07 13:19:17
+3,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(hszq4ucryrtlm0ewx0o51mkt))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row3_email_field_not_found_20260407_132011.png,2026-04-07 13:20:11
+4,https://sangamoncountyilsheriff.govqa.us/WEBAPP/_rs/(S(25cqysq5siot03ezjosh55se))/SupportHome.aspx?sSessionID=1544725208:45720JZJSQAKDOVEWAPFUGQYMYPHJ,agent-sr@smartprocure.us,FAILED,Could not find email/username input field,screenshots/errors/row4_email_field_not_found_20260407_132109.png,2026-04-07 13:21:10
+2,https://peoriaaz.govqa.us/WEBAPP/_rs/(S(spyqtdxt5x05w1vtxlxnojw2))/supporthome.aspx,agent-sr@smartprocure.us,FAILED,"Smart form fill failed → Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=145.0.7632.45)
+Stacktrace:
+#0 0x5f29105aeb6a <unknown>
+#1 0x5f290ffc1a32 <unknown>
+#2 0x5f290ffa7693 <unknown>
+#3 0x5f290ffd0cc1 <unknown>
+#4 0x5f29100456a0 <unknown>
+#5 0x5f291005ed68 <unknown>
+#6 0x5f2910008c0f <unknown>
+#7 0x5f29100099d1 <unknown>
+#8 0x5f29105736b9 <unknown>
+#9 0x5f29105765c1 <unknown>
+#10 0x5f291055fe29 <unknown>
+#11 0x5f291057717e <unknown>
+#12 0x5f29105464b0 <unknown>
+#13 0x5f291059b578 <unknown>
+#14 0x5f291059b74b <unknown>
+#15 0x5f29105ad1a3 <unknown>
+#16 0x7b235b49caa4 <unknown>
+#17 0x7b235b529c6c <unknown>
+",,2026-04-07 15:39:19
