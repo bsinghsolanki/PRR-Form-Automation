@@ -8,7 +8,7 @@ All keys must be lowercase.
 """
 
 FIELD_MAP: dict[str, str] = {
-
+  
     # ── Company / Organisation ─────────────────────────────────────────
     "your business/organization name":   "Company",
     "name/ organization requesting":     "Company",   # ← also contains "name"
@@ -34,16 +34,19 @@ FIELD_MAP: dict[str, str] = {
     "request made by":                  "Name",
     "requestor name":                   "Name",
     "requester's name":                 "Name",
+    "name/ organization requesting":    "Name",
     "name (first, last)":               "Name",
     "name (last, first":                "Name",
-    "your name":                        "Name",
+    "contact person":                      "Name",
+    "requested by":                         "Name",
+    "requestor:":                           "Name",
+    "requester:":                           "Name",
+    "contact name":                         "Name",
+    "your name":                            "Name",
     "contact/requestor":                "Name",
     "representing":                     "Name",
     "requestor's name":                 "Name",
     "name":                             "Name",
-    "contact person":                   "Name",
-    "contact name":                     "Name",
-    "your name":                        "Name",
 
     # ── Email variants ─────────────────────────────────────────────────
     "requestor email":                  "Email",
@@ -55,7 +58,6 @@ FIELD_MAP: dict[str, str] = {
     "e-mail":                           "Email",
     "email address":                    "Email",
     "email":                            "Email",
-    "email the records (if applicable)":  "Email",
 
     # ── Phone variants ─────────────────────────────────────────────────
     "telephone number of requester":    "Phone",
@@ -107,7 +109,20 @@ FIELD_MAP: dict[str, str] = {
     "zip code":                         "Zip",
     "zip":                              "Zip",
     "postal code":                      "Zip",
-    
+
+    # "your business/organization name":  "Company",
+    # "business / organization name":     "Company",
+    # "company/organization":             "Company",
+    # "company/ business/ organization":  "Company",
+    # "company name":                     "Company",
+    # "organization (if any)":           "Company",
+    # "organization/business":            "Company",
+    # "company (if applicable)":          "Company",
+    # "company (as applicable)":          "Company",
+    # "company (if available)":           "Company",
+    # "company:":                         "Company",
+    # "company":                          "Company",
+
     # ── Department ────────────────────────────────────────────────────
     "department holding the record":    "Department",
     "department of requested records":  "Department",
@@ -117,13 +132,7 @@ FIELD_MAP: dict[str, str] = {
     "departments":                      "Department",
     "department":                       "Department",
     "town department":                  "Department",
-    "Department*":                      "Department",
-    "Department":                       "Department",
 
     # ── Subject (contact forms) ────────────────────────────────────────
     "subject":                          "Description",
-    "requested records":                "Description",
-    "records":                          "Description",
-    "record description":               "Description",
-    "i hereby request, pursuant to Idaho Code 74-102, to examine and/or copy the following public records(including audio):": "Description",
 }

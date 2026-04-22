@@ -146,7 +146,7 @@ class DecisionEngine:
     ]
 
     _LEGAL_KEYWORDS = [
-        "convicted", "offense", "commercial purpose",
+        "convicted", "offense",
         "legal proceeding", "n.j.s.a. 2c:28-3",
     ]
 
@@ -163,6 +163,7 @@ class DecisionEngine:
         "full name and contact information is true",
         "verification",
         "acknowledgement",
+        "acknowledgment",           # US spelling (single e)
         "contact information requirements",
         "agree to pay up to",
         "request information statement",
@@ -240,6 +241,23 @@ class DecisionEngine:
         "brief description of record",
         "comments or description",
         "examine and/or copy the following",
+        "description of document",
+        "please list document",
+        "please list the document",
+        "list document",
+        "project/subdivision",
+        "project name",
+        "subdivision",
+    ]
+
+    _DEPT_TEXT_LABELS = [
+        "town department",
+        "department (if known)",
+        "department name",
+        "which department",
+        "name of department",
+        "department holding",
+        "this request pertains to",
     ]
 
     _REASON_LABELS = [
@@ -282,7 +300,13 @@ class DecisionEngine:
         if "date" in l and field_type in ("text", "textarea"):
             return "__TODAY__"
 
-        # ── 2. Reason for requesting → fixed boilerplate ───────────────────
+        # ── 2. Department text fields → write top priority dept as text ────
+        # When a department field is a plain textbox (not radio/dropdown),
+        # write "City Clerk" as the default — top of the priority list.
+        if field_type in ("text", "textarea") and any(k in l for k in self._DEPT_TEXT_LABELS):
+            return "__DEPT_TEXT__"
+
+        # ── 3. Reason for requesting → fixed boilerplate ───────────────────
         if field_type in ("text", "textarea") and any(k in l for k in self._REASON_LABELS):
             return "__REASON__"
 
@@ -301,14 +325,19 @@ class DecisionEngine:
                 or self._pick(ol, opts, ["no", "false"])
             )
 
-        # ── 5. Commercial purpose → NO ───────────────────────────────────
+        # ── 5. Commercial purpose → YES ─────────────────────────────────────
+        # We are a commercial entity (Smartprocure), so answer YES
         if any(k in l for k in [
             "commercial purpose", "commercial / business purpose",
             "commercial solicitation", "commercial request",
             "is this a commercial request", "for commercial purpose",
             "a.r.s. section 39-121.03", "rcw 42.56.070",
         ]):
-            return self._pick(ol, opts, ["will not", "does not include", "no"])
+            return (
+                self._pick(ol, opts, ["yes"])
+                or self._pick(ol, opts, ["will "])   # "WILL /" in NJ OPRA
+                or self._pick(ol, opts, ["commercial"])
+            )
 
         # ── 6. Litigation → NO ──────────────────────────────────────────
         if any(k in l for k in [
@@ -379,7 +408,77 @@ class DecisionEngine:
                 return "1"
             return self._pick(ol, opts, ["1"]) or (opts[0] if opts else "1")
 
+        # ── 2b. Copies in electronic format → YES ───────────────────────────
+        if "copies in electronic format" in l or "electronic format" in l and "copies" in l:
+            return self._pick(ol, opts, ["yes"])
+
+        # ── 2c. Sheriff / specific agency office question → NO ───────────────
+        # "Are you requesting documents from the [Agency] Sheriff's Office?" → No
+        if "sheriff" in l and ("are you requesting" in l or "requesting documents from" in l):
+            return self._pick(ol, opts, ["no"])
+
+        # ── 2d. Requester willing to retrieve records → No ───────────────────
+        if "willing to retrieve" in l or "requester willing" in l:
+            return self._pick(ol, opts, ["no"])
+
+        # ── 2e. Fee agreement → Yes ──────────────────────────────────────────
+        if "fee agreement" in l:
+            if field_type in ("radio", "checkbox", "dropdown"):
+                return self._pick(ol, opts, ["yes", "i agree", "agree"])
+            return "__SIGN__"
+
+        # ── 2f. Request to / copy of records → Receive Copies / Yes ─────────
+        if l.strip(":").strip() in ("request to", "copy of records"):
+            return (
+                self._pick(ol, opts, ["receive copies", "copies", "copy"])
+                or self._pick(ol, opts, ["yes"])
+            )
+
+        # ── 2g. Purpose of request → Commercial (fallback Other) ────────────
+        if "purpose of request" in l or "purpose of this request" in l:
+            return (
+                self._pick(ol, opts, ["commercial"])
+                or self._pick(ol, opts, ["business"])
+                or self._pick(ol, opts, ["other"])
+            )
+
+        # ── 2h. Media format → Electronic Copy ──────────────────────────────
+        if "media format" in l:
+            return (
+                self._pick(ol, opts, ["electronic copy", "electronic", "e-copy"])
+                or self._pick(ol, opts, ["email", "digital"])
+            )
+
+        # ── 12b. Type of Requestor → Commercial ─────────────────────────────
+        if "type of requestor" in l or "requestor type" in l:
+            return (
+                self._pick(ol, opts, ["commercial"])
+                or self._pick(ol, opts, ["business"])
+                or (opts[1] if len(opts) > 1 else None)   # skip placeholder, take first real
+            )
+
         # ── 13. Certified copies → NO ────────────────────────────────────
+        # "Copies Need to be Certified as True and Correct" → No
+        if "certified as true and correct" in l:
+            return self._pick(ol, opts, ["no"])
+
+        # ── 13a. "This request is made for" → Personal Use (not commercial) ──
+        if "this request is made for" in l or "request is made for:" in l:
+            return (
+                self._pick(ol, opts, ["personal use", "personal"])
+                or self._pick(ol, opts, ["non-commercial", "noncommercial"])
+            )
+
+        # ── 13b. "This request is for" → Copying (not Inspection) ───────────
+        if l in ("this request is for:", "this request is for") or (
+            "request is for" in l and field_type in ("radio", "checkbox")
+        ):
+            return (
+                self._pick(ol, opts, ["copying", "copies", "copy"])
+                or self._pick(ol, opts, ["electronic", "email"])
+            )
+
+        # ── OLD 13. Certified copies → NO (kept as fallback) ─────────────
         if "certified copies" in l:
             return self._pick(ol, opts, ["no"])
 
@@ -388,6 +487,8 @@ class DecisionEngine:
             return self._pick(ol, opts, ["no"])
 
         # ── 15. Wish to have copies → YES ────────────────────────────────
+        if "i wish to have hard copies" in l or ("i wish to have" in l and "hard cop" in l):
+            return self._pick(ol, opts, ["no"])
         if "i wish to have" in l:
             return self._pick(ol, opts, ["yes"])
 
@@ -403,11 +504,6 @@ class DecisionEngine:
         ]):
             return self._pick(ol, opts, ["copy", "duplicate"])
 
-        if "certified as true and correct" in l:
-            return self._pick(ol, opts, ["no"])
-        
-        if "this request is made for" in l:
-            return self._pick(ol, opts, ["business/commercial purposes","commercial"])
         # ── 18. Response via email? → YES ────────────────────────────────
         if "response method" in l and "email" in l:
             return self._pick(ol, opts, ["yes"])
@@ -420,14 +516,6 @@ class DecisionEngine:
         if l == "incident" or "police records" in l or "government agency" in l:
             return self._pick(ol, opts, ["no"])
 
-        if l in ("this request is for:", "this request is for") or (
-            "request is for" in l and field_type in ("radio", "checkbox")
-        ):
-            return (
-                self._pick(ol, opts, ["copying", "copies", "copy"])
-                or self._pick(ol, opts, ["electronic", "email"])
-            )
-        
         # ── 21. Township / Police / General Authority → Township ─────────
         if "township" in l and "police" in l and "general authority" in l:
             return (
